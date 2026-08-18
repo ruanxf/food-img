@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "soup",
+  "guides": [
+    {
+      "id": "corn-pork-rib-soup",
+      "category": "cook",
+      "categoryId": "soup",
+      "categoryName": "汤粥炖煲",
+      "categoryIcon": "汤",
+      "categoryColor": "#9fd8ff",
+      "typeLabel": "家常菜谱",
+      "rank": 33,
+      "name": "玉米排骨汤",
+      "score": "67",
+      "price": "成本 25-55",
+      "time": "45-75 分钟",
+      "tags": [
+        "热汤",
+        "炖煲",
+        "清甜"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "玉米排骨汤味道清甜，适合家庭周末或想吃温和一点的晚餐。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "玉米排骨汤成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：排骨、玉米、胡萝卜、姜片、料酒、盐、葱花。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "玉米排骨汤食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "排骨冷水下锅，加料酒焯水后洗净。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "玉米排骨汤步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "排骨、姜片和热水入锅炖 30 分钟。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "玉米排骨汤步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "加入玉米和胡萝卜继续炖。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "玉米排骨汤步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "出锅前加盐，撒葱花。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "玉米排骨汤步骤4图"
+        }
+      ],
+      "intro": "玉米排骨汤是在家做饭库 TOP 33。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "玉米排骨汤味道清甜，适合家庭周末或想吃温和一点的晚餐。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "排骨",
+        "玉米",
+        "胡萝卜",
+        "姜片",
+        "料酒",
+        "盐",
+        "葱花"
+      ],
+      "steps": [
+        "排骨冷水下锅，加料酒焯水后洗净。",
+        "排骨、姜片和热水入锅炖 30 分钟。",
+        "加入玉米和胡萝卜继续炖。",
+        "出锅前加盐，撒葱花。"
+      ]
+    },
+    {
+      "id": "preserved-egg-congee",
+      "category": "cook",
+      "categoryId": "soup",
+      "categoryName": "汤粥炖煲",
+      "categoryIcon": "汤",
+      "categoryColor": "#9fd8ff",
+      "typeLabel": "家常菜谱",
+      "rank": 34,
+      "name": "皮蛋瘦肉粥",
+      "score": "66",
+      "price": "成本 8-20",
+      "time": "35-55 分钟",
+      "tags": [
+        "早餐",
+        "粥",
+        "热乎"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "皮蛋瘦肉粥适合早餐或晚饭想吃舒服一点时做，饱腹但不沉重。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "皮蛋瘦肉粥成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：大米、皮蛋、瘦肉、姜丝、盐、白胡椒、葱花。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "皮蛋瘦肉粥食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "大米浸泡后加水煮到开花。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "皮蛋瘦肉粥步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "瘦肉切丝，加盐和少量淀粉抓匀。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "皮蛋瘦肉粥步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "粥底浓稠后加入皮蛋和肉丝。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "皮蛋瘦肉粥步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "肉丝变色后加盐、白胡椒和葱花。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "皮蛋瘦肉粥步骤4图"
+        }
+      ],
+      "intro": "皮蛋瘦肉粥是在家做饭库 TOP 34。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "皮蛋瘦肉粥适合早餐或晚饭想吃舒服一点时做，饱腹但不沉重。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "大米",
+        "皮蛋",
+        "瘦肉",
+        "姜丝",
+        "盐",
+        "白胡椒",
+        "葱花"
+      ],
+      "steps": [
+        "大米浸泡后加水煮到开花。",
+        "瘦肉切丝，加盐和少量淀粉抓匀。",
+        "粥底浓稠后加入皮蛋和肉丝。",
+        "肉丝变色后加盐、白胡椒和葱花。"
+      ]
+    }
+  ]
+}

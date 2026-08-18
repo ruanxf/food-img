@@ -1,0 +1,414 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "vegetable",
+  "guides": [
+    {
+      "id": "sour-spicy-potato",
+      "category": "cook",
+      "categoryId": "vegetable",
+      "categoryName": "素菜清爽",
+      "categoryIcon": "青",
+      "categoryColor": "#6ee7d8",
+      "typeLabel": "家常菜谱",
+      "rank": 24,
+      "name": "酸辣土豆丝",
+      "score": "76",
+      "price": "成本 3-8",
+      "time": "8-12 分钟",
+      "tags": [
+        "素菜",
+        "开胃",
+        "平价"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "酸辣土豆丝便宜、顶饱、开胃，是很多家庭最常做的素菜之一。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "酸辣土豆丝成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：土豆、干辣椒、蒜末、米醋、盐、生抽、葱花。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "酸辣土豆丝食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "土豆切丝后用清水冲掉表面淀粉。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "酸辣土豆丝步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "热锅下油，炒香蒜末和干辣椒。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "酸辣土豆丝步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "大火下土豆丝快速翻炒。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "酸辣土豆丝步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "加盐、生抽和米醋，保持脆感后撒葱花。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "酸辣土豆丝步骤4图"
+        }
+      ],
+      "intro": "酸辣土豆丝是在家做饭库 TOP 24。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "酸辣土豆丝便宜、顶饱、开胃，是很多家庭最常做的素菜之一。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "土豆",
+        "干辣椒",
+        "蒜末",
+        "米醋",
+        "盐",
+        "生抽",
+        "葱花"
+      ],
+      "steps": [
+        "土豆切丝后用清水冲掉表面淀粉。",
+        "热锅下油，炒香蒜末和干辣椒。",
+        "大火下土豆丝快速翻炒。",
+        "加盐、生抽和米醋，保持脆感后撒葱花。"
+      ]
+    },
+    {
+      "id": "home-style-tofu",
+      "category": "cook",
+      "categoryId": "vegetable",
+      "categoryName": "素菜清爽",
+      "categoryIcon": "青",
+      "categoryColor": "#6ee7d8",
+      "typeLabel": "家常菜谱",
+      "rank": 26,
+      "name": "家常豆腐",
+      "score": "74",
+      "price": "成本 5-15",
+      "time": "12-18 分钟",
+      "tags": [
+        "豆腐",
+        "下饭",
+        "平价"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "家常豆腐便宜又能吸味，适合想吃热乎下饭但不想花太多钱的时候。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "家常豆腐成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：老豆腐、青椒、木耳、蒜末、生抽、蚝油、水淀粉。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "家常豆腐食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "豆腐切片，煎到两面微黄。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "家常豆腐步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "锅里炒香蒜末、青椒和木耳。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "家常豆腐步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "放回豆腐，加生抽、蚝油和少量热水。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "家常豆腐步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "煮入味后用水淀粉薄芡收汁。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "家常豆腐步骤4图"
+        }
+      ],
+      "intro": "家常豆腐是在家做饭库 TOP 26。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "家常豆腐便宜又能吸味，适合想吃热乎下饭但不想花太多钱的时候。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "老豆腐",
+        "青椒",
+        "木耳",
+        "蒜末",
+        "生抽",
+        "蚝油",
+        "水淀粉"
+      ],
+      "steps": [
+        "豆腐切片，煎到两面微黄。",
+        "锅里炒香蒜末、青椒和木耳。",
+        "放回豆腐，加生抽、蚝油和少量热水。",
+        "煮入味后用水淀粉薄芡收汁。"
+      ]
+    },
+    {
+      "id": "garlic-lettuce",
+      "category": "cook",
+      "categoryId": "vegetable",
+      "categoryName": "素菜清爽",
+      "categoryIcon": "青",
+      "categoryColor": "#6ee7d8",
+      "typeLabel": "家常菜谱",
+      "rank": 27,
+      "name": "蚝油生菜",
+      "score": "73",
+      "price": "成本 4-10",
+      "time": "6-10 分钟",
+      "tags": [
+        "素菜",
+        "清爽",
+        "快手"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "蚝油生菜是最省心的绿叶菜之一，适合给油腻一餐补一盘清爽。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "蚝油生菜成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：生菜、蒜末、蚝油、生抽、白糖、水淀粉、食用油。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "蚝油生菜食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "生菜洗净沥干，开水里加油和盐快速烫熟。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "蚝油生菜步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "蒜末下锅炒香。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "蚝油生菜步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "加蚝油、生抽、白糖和少量水煮开。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "蚝油生菜步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "用水淀粉勾薄芡，淋到生菜上。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "蚝油生菜步骤4图"
+        }
+      ],
+      "intro": "蚝油生菜是在家做饭库 TOP 27。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "蚝油生菜是最省心的绿叶菜之一，适合给油腻一餐补一盘清爽。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "生菜",
+        "蒜末",
+        "蚝油",
+        "生抽",
+        "白糖",
+        "水淀粉",
+        "食用油"
+      ],
+      "steps": [
+        "生菜洗净沥干，开水里加油和盐快速烫熟。",
+        "蒜末下锅炒香。",
+        "加蚝油、生抽、白糖和少量水煮开。",
+        "用水淀粉勾薄芡，淋到生菜上。"
+      ]
+    },
+    {
+      "id": "braised-eggplant",
+      "category": "cook",
+      "categoryId": "vegetable",
+      "categoryName": "素菜清爽",
+      "categoryIcon": "青",
+      "categoryColor": "#6ee7d8",
+      "typeLabel": "家常菜谱",
+      "rank": 28,
+      "name": "红烧茄子",
+      "score": "72",
+      "price": "成本 6-15",
+      "time": "15-22 分钟",
+      "tags": [
+        "素菜",
+        "下饭",
+        "浓香"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "红烧茄子是素菜里的下饭担当，处理好吸油问题后非常适合家常餐桌。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "红烧茄子成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：茄子、青椒、蒜末、生抽、蚝油、白糖、水淀粉。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "红烧茄子食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "茄子切块，加少量盐抓匀静置后挤水。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "红烧茄子步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "锅里煎或少油煸软茄子。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "红烧茄子步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "炒香蒜末和青椒，茄子回锅。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "红烧茄子步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "加生抽、蚝油、白糖和少量水，最后勾薄芡。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "红烧茄子步骤4图"
+        }
+      ],
+      "intro": "红烧茄子是在家做饭库 TOP 28。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "红烧茄子是素菜里的下饭担当，处理好吸油问题后非常适合家常餐桌。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "茄子",
+        "青椒",
+        "蒜末",
+        "生抽",
+        "蚝油",
+        "白糖",
+        "水淀粉"
+      ],
+      "steps": [
+        "茄子切块，加少量盐抓匀静置后挤水。",
+        "锅里煎或少油煸软茄子。",
+        "炒香蒜末和青椒，茄子回锅。",
+        "加生抽、蚝油、白糖和少量水，最后勾薄芡。"
+      ]
+    }
+  ]
+}

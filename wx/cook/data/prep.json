@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "prep",
+  "guides": [
+    {
+      "id": "weekly-light-lunchbox",
+      "category": "cook",
+      "categoryId": "prep",
+      "categoryName": "带饭备餐",
+      "categoryIcon": "盒",
+      "categoryColor": "#92d58f",
+      "typeLabel": "家常菜谱",
+      "rank": 35,
+      "name": "一周轻食便当",
+      "score": "65",
+      "price": "成本 45-120",
+      "time": "60-90 分钟",
+      "tags": [
+        "备餐",
+        "清爽",
+        "工作日"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "轻食便当适合工作日想省钱、少油、吃得稳定的人，用主食、蛋白质和蔬菜三格搭配。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "一周轻食便当成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：杂粮饭、鸡腿肉/鸡胸肉、鸡蛋、西兰花、胡萝卜、玉米、黑胡椒。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "一周轻食便当食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "先煮杂粮饭，同时处理蛋白质。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "一周轻食便当步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "鸡肉用黑胡椒、生抽腌制后煎熟或蒸熟。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "一周轻食便当步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "西兰花、胡萝卜和玉米焯熟沥干。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "一周轻食便当步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "饭盒按主食、蛋白质、蔬菜分格装，放凉后冷藏。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "一周轻食便当步骤4图"
+        }
+      ],
+      "intro": "一周轻食便当是在家做饭库 TOP 35。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "轻食便当适合工作日想省钱、少油、吃得稳定的人，用主食、蛋白质和蔬菜三格搭配。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "杂粮饭",
+        "鸡腿肉/鸡胸肉",
+        "鸡蛋",
+        "西兰花",
+        "胡萝卜",
+        "玉米",
+        "黑胡椒"
+      ],
+      "steps": [
+        "先煮杂粮饭，同时处理蛋白质。",
+        "鸡肉用黑胡椒、生抽腌制后煎熟或蒸熟。",
+        "西兰花、胡萝卜和玉米焯熟沥干。",
+        "饭盒按主食、蛋白质、蔬菜分格装，放凉后冷藏。"
+      ]
+    }
+  ]
+}

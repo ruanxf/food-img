@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "staple",
+  "guides": [
+    {
+      "id": "scallion-oil-noodles",
+      "category": "cook",
+      "categoryId": "staple",
+      "categoryName": "早餐主食",
+      "categoryIcon": "麦",
+      "categoryColor": "#ffdd59",
+      "typeLabel": "家常菜谱",
+      "rank": 31,
+      "name": "葱油拌面",
+      "score": "69",
+      "price": "成本 4-12",
+      "time": "10-16 分钟",
+      "tags": [
+        "拌面",
+        "快手",
+        "香"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "葱油拌面适合一个人不想炒菜时做，香味足、成本低，十几分钟就能吃上。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "葱油拌面成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：面条、小葱、生抽、老抽、白糖、食用油。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "葱油拌面食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "小葱切段，葱白和葱绿分开放。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "葱油拌面步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "冷油下葱段，小火慢炸到葱变焦香。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "葱油拌面步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "关火加入生抽、老抽和白糖调成葱油汁。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "葱油拌面步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "面条煮熟沥水，拌入葱油汁。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "葱油拌面步骤4图"
+        }
+      ],
+      "intro": "葱油拌面是在家做饭库 TOP 31。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "葱油拌面适合一个人不想炒菜时做，香味足、成本低，十几分钟就能吃上。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "面条",
+        "小葱",
+        "生抽",
+        "老抽",
+        "白糖",
+        "食用油"
+      ],
+      "steps": [
+        "小葱切段，葱白和葱绿分开放。",
+        "冷油下葱段，小火慢炸到葱变焦香。",
+        "关火加入生抽、老抽和白糖调成葱油汁。",
+        "面条煮熟沥水，拌入葱油汁。"
+      ]
+    }
+  ]
+}

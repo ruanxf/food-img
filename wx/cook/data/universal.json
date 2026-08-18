@@ -1,0 +1,2142 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "universal",
+  "guides": [
+    {
+      "id": "universal-cold-dish",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 1,
+      "name": "凉菜万能拌法",
+      "score": "99",
+      "price": "成本 5-18",
+      "time": "8-15 分钟",
+      "tags": [
+        "少油",
+        "开胃",
+        "解腻"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "凉菜万能拌法适合不想开大火、想吃清爽一点的时候。黄瓜、豆皮、木耳、粉丝、藕片都能套这套逻辑。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "凉菜万能拌法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：生抽、香醋、蒜末、香油、白糖、辣椒油、熟芝麻、任意蔬菜。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "凉菜万能拌法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "食材切成适口大小，需要焯水的先焯熟。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "凉菜万能拌法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "碗里用生抽、香醋、蒜末、白糖和香油调底味。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "凉菜万能拌法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "能吃辣就加辣椒油，想浓郁就加澥开的芝麻酱。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "凉菜万能拌法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "食材沥干后再拌，最后撒芝麻、花生碎或香菜。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "凉菜万能拌法步骤4图"
+        }
+      ],
+      "intro": "凉菜万能拌法是在家做饭库 TOP 1。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "凉菜万能拌法适合不想开大火、想吃清爽一点的时候。黄瓜、豆皮、木耳、粉丝、藕片都能套这套逻辑。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "生抽",
+        "香醋",
+        "蒜末",
+        "香油",
+        "白糖",
+        "辣椒油",
+        "熟芝麻",
+        "任意蔬菜"
+      ],
+      "steps": [
+        "食材切成适口大小，需要焯水的先焯熟。",
+        "碗里用生抽、香醋、蒜末、白糖和香油调底味。",
+        "能吃辣就加辣椒油，想浓郁就加澥开的芝麻酱。",
+        "食材沥干后再拌，最后撒芝麻、花生碎或香菜。"
+      ]
+    },
+    {
+      "id": "universal-veg-stir-fry",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 2,
+      "name": "炒素菜万能做法",
+      "score": "98",
+      "price": "成本 4-16",
+      "time": "8-12 分钟",
+      "tags": [
+        "快手",
+        "清爽",
+        "家常"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "炒素菜是家庭餐桌最高频的健康补位，青菜、西兰花、包菜、豆芽、菌菇都能用。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "炒素菜万能做法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：时令蔬菜、蒜末、食用油、盐、生抽、蚝油、清水。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "炒素菜万能做法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "蔬菜洗净沥干，根茎类切薄片，叶菜切大段。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "炒素菜万能做法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "热锅热油下蒜末，香味出来后先放难熟部分。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "炒素菜万能做法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "转大火快速翻炒，沿锅边补一点水形成蒸汽。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "炒素菜万能做法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "出锅前再放盐或少量蚝油，翻匀立刻装盘。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "炒素菜万能做法步骤4图"
+        }
+      ],
+      "intro": "炒素菜万能做法是在家做饭库 TOP 2。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "炒素菜是家庭餐桌最高频的健康补位，青菜、西兰花、包菜、豆芽、菌菇都能用。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "时令蔬菜",
+        "蒜末",
+        "食用油",
+        "盐",
+        "生抽",
+        "蚝油",
+        "清水"
+      ],
+      "steps": [
+        "蔬菜洗净沥干，根茎类切薄片，叶菜切大段。",
+        "热锅热油下蒜末，香味出来后先放难熟部分。",
+        "转大火快速翻炒，沿锅边补一点水形成蒸汽。",
+        "出锅前再放盐或少量蚝油，翻匀立刻装盘。"
+      ]
+    },
+    {
+      "id": "universal-meat-stir-fry",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 3,
+      "name": "炒荤菜万能做法",
+      "score": "97",
+      "price": "成本 12-35",
+      "time": "12-20 分钟",
+      "tags": [
+        "下饭",
+        "肉菜",
+        "锅气"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "肉丝、鸡丁、牛肉片、五花肉小炒都能套炒荤菜公式，是最实用的下饭菜入口。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "炒荤菜万能做法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：猪肉/鸡肉/牛肉、生抽、料酒、淀粉、青椒或洋葱、蒜末、蚝油。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "炒荤菜万能做法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "肉切片或丝，加生抽、料酒、淀粉和少量油抓匀。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "炒荤菜万能做法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "热锅下油，把肉快速炒到变色定型后先盛出。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "炒荤菜万能做法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "锅里补蒜末和配菜，炒到断生后把肉倒回。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "炒荤菜万能做法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "用生抽、蚝油和少量热水收味，大火翻匀出锅。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "炒荤菜万能做法步骤4图"
+        }
+      ],
+      "intro": "炒荤菜万能做法是在家做饭库 TOP 3。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "肉丝、鸡丁、牛肉片、五花肉小炒都能套炒荤菜公式，是最实用的下饭菜入口。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "猪肉/鸡肉/牛肉",
+        "生抽",
+        "料酒",
+        "淀粉",
+        "青椒或洋葱",
+        "蒜末",
+        "蚝油"
+      ],
+      "steps": [
+        "肉切片或丝，加生抽、料酒、淀粉和少量油抓匀。",
+        "热锅下油，把肉快速炒到变色定型后先盛出。",
+        "锅里补蒜末和配菜，炒到断生后把肉倒回。",
+        "用生抽、蚝油和少量热水收味，大火翻匀出锅。"
+      ]
+    },
+    {
+      "id": "universal-steamed-dish",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 4,
+      "name": "蒸菜万能做法",
+      "score": "96",
+      "price": "成本 8-30",
+      "time": "15-25 分钟",
+      "tags": [
+        "少油",
+        "省心",
+        "健康"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "蒸菜对新手友好，排骨、鸡腿、蛋羹、茄子、南瓜、鱼片都能用少油方式做熟。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "蒸菜万能做法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：主料、姜丝、葱花、生抽、蚝油、料酒、食用油。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "蒸菜万能做法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "主料切薄或切小块，肉类提前腌 10 分钟。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "蒸菜万能做法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "盘底铺耐蒸配菜，主料平铺，避免叠太厚。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "蒸菜万能做法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "水开上汽后放入蒸锅，按食材厚度蒸 8-18 分钟。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "蒸菜万能做法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "出锅撒葱花，淋热油或热汤汁补香。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "蒸菜万能做法步骤4图"
+        }
+      ],
+      "intro": "蒸菜万能做法是在家做饭库 TOP 4。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "蒸菜对新手友好，排骨、鸡腿、蛋羹、茄子、南瓜、鱼片都能用少油方式做熟。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "主料",
+        "姜丝",
+        "葱花",
+        "生抽",
+        "蚝油",
+        "料酒",
+        "食用油"
+      ],
+      "steps": [
+        "主料切薄或切小块，肉类提前腌 10 分钟。",
+        "盘底铺耐蒸配菜，主料平铺，避免叠太厚。",
+        "水开上汽后放入蒸锅，按食材厚度蒸 8-18 分钟。",
+        "出锅撒葱花，淋热油或热汤汁补香。"
+      ]
+    },
+    {
+      "id": "steamed-bun-formula",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 5,
+      "name": "蒸馒头万能做法",
+      "score": "95",
+      "price": "成本 3-10",
+      "time": "60-90 分钟",
+      "tags": [
+        "主食",
+        "早餐",
+        "囤粮"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "蒸馒头是最亲民的主食技能，学会后早餐、晚饭和带饭都能省心很多。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "蒸馒头万能做法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：中筋面粉、酵母、温水、白糖、食用油。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "蒸馒头万能做法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "温水化开酵母和少量白糖，倒入面粉揉成光滑面团。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "蒸馒头万能做法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "盖好发酵到约 2 倍大，手指戳洞不明显回缩即可。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "蒸馒头万能做法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "排气揉匀后分剂子整形，放进蒸锅二次醒 15 分钟。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "蒸馒头万能做法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "冷水开火，水开后蒸 15 分钟，关火焖 3 分钟再开盖。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "蒸馒头万能做法步骤4图"
+        }
+      ],
+      "intro": "蒸馒头万能做法是在家做饭库 TOP 5。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "蒸馒头是最亲民的主食技能，学会后早餐、晚饭和带饭都能省心很多。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "中筋面粉",
+        "酵母",
+        "温水",
+        "白糖",
+        "食用油"
+      ],
+      "steps": [
+        "温水化开酵母和少量白糖，倒入面粉揉成光滑面团。",
+        "盖好发酵到约 2 倍大，手指戳洞不明显回缩即可。",
+        "排气揉匀后分剂子整形，放进蒸锅二次醒 15 分钟。",
+        "冷水开火，水开后蒸 15 分钟，关火焖 3 分钟再开盖。"
+      ]
+    },
+    {
+      "id": "universal-braised-dish",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 6,
+      "name": "红烧万能做法",
+      "score": "94",
+      "price": "成本 12-45",
+      "time": "25-45 分钟",
+      "tags": [
+        "浓香",
+        "下饭",
+        "硬菜"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "红烧公式能覆盖鸡翅、排骨、土豆、豆腐、肉块，是家里最容易做出仪式感的下饭硬菜。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "红烧万能做法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：主料、葱姜蒜、生抽、老抽、冰糖、料酒、热水。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "红烧万能做法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "主料焯水或煎到表面微黄，先去腥并定型。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "红烧万能做法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "锅里下葱姜蒜和少量冰糖，炒出香味后放主料。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "红烧万能做法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "加生抽、老抽、料酒和热水，盖盖中小火焖。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "红烧万能做法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "主料熟透后开盖收汁，汤汁挂住食材即可。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "红烧万能做法步骤4图"
+        }
+      ],
+      "intro": "红烧万能做法是在家做饭库 TOP 6。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "红烧公式能覆盖鸡翅、排骨、土豆、豆腐、肉块，是家里最容易做出仪式感的下饭硬菜。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "主料",
+        "葱姜蒜",
+        "生抽",
+        "老抽",
+        "冰糖",
+        "料酒",
+        "热水"
+      ],
+      "steps": [
+        "主料焯水或煎到表面微黄，先去腥并定型。",
+        "锅里下葱姜蒜和少量冰糖，炒出香味后放主料。",
+        "加生抽、老抽、料酒和热水，盖盖中小火焖。",
+        "主料熟透后开盖收汁，汤汁挂住食材即可。"
+      ]
+    },
+    {
+      "id": "universal-stew",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 7,
+      "name": "炖菜万能做法",
+      "score": "93",
+      "price": "成本 10-45",
+      "time": "30-60 分钟",
+      "tags": [
+        "热乎",
+        "省心",
+        "一锅出"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "炖菜适合土豆、萝卜、鸡肉、排骨、豆腐、粉条，冬天或不想炒多个菜时很实用。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "炖菜万能做法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：肉类或豆制品、土豆/萝卜、葱姜、生抽、盐、热水、青菜。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "炖菜万能做法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "肉类先焯水或煎香，素炖则先煸香葱姜。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "炖菜万能做法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "加入耐炖食材和热水，水量刚没过食材即可。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "炖菜万能做法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "中小火炖到主料变软，再放豆腐、粉条或青菜。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "炖菜万能做法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "最后用盐调味，想下饭就多收一点汁。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "炖菜万能做法步骤4图"
+        }
+      ],
+      "intro": "炖菜万能做法是在家做饭库 TOP 7。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "炖菜适合土豆、萝卜、鸡肉、排骨、豆腐、粉条，冬天或不想炒多个菜时很实用。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "肉类或豆制品",
+        "土豆/萝卜",
+        "葱姜",
+        "生抽",
+        "盐",
+        "热水",
+        "青菜"
+      ],
+      "steps": [
+        "肉类先焯水或煎香，素炖则先煸香葱姜。",
+        "加入耐炖食材和热水，水量刚没过食材即可。",
+        "中小火炖到主料变软，再放豆腐、粉条或青菜。",
+        "最后用盐调味，想下饭就多收一点汁。"
+      ]
+    },
+    {
+      "id": "universal-fried-rice",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 8,
+      "name": "万能炒饭做法",
+      "score": "92",
+      "price": "成本 5-20",
+      "time": "8-15 分钟",
+      "tags": [
+        "剩饭",
+        "快手",
+        "顶饱"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "炒饭是处理剩饭和零散食材的最强方案，鸡蛋、火腿、青菜、虾仁、玉米粒都能放。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "万能炒饭做法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：冷米饭、鸡蛋、葱花、火腿或虾仁、青菜粒、生抽、盐。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "万能炒饭做法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "冷饭提前抓散，配菜切小粒，鸡蛋打散备用。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "万能炒饭做法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "热锅下油炒鸡蛋，炒到半凝固时盛出或推到一边。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "万能炒饭做法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "下米饭炒散，再加入配菜和鸡蛋一起翻炒。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "万能炒饭做法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "沿锅边淋生抽，补少量盐，最后撒葱花出锅。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "万能炒饭做法步骤4图"
+        }
+      ],
+      "intro": "万能炒饭做法是在家做饭库 TOP 8。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "炒饭是处理剩饭和零散食材的最强方案，鸡蛋、火腿、青菜、虾仁、玉米粒都能放。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "冷米饭",
+        "鸡蛋",
+        "葱花",
+        "火腿或虾仁",
+        "青菜粒",
+        "生抽",
+        "盐"
+      ],
+      "steps": [
+        "冷饭提前抓散，配菜切小粒，鸡蛋打散备用。",
+        "热锅下油炒鸡蛋，炒到半凝固时盛出或推到一边。",
+        "下米饭炒散，再加入配菜和鸡蛋一起翻炒。",
+        "沿锅边淋生抽，补少量盐，最后撒葱花出锅。"
+      ]
+    },
+    {
+      "id": "universal-breakfast-pancake",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 9,
+      "name": "早餐饼万能做法",
+      "score": "91",
+      "price": "成本 4-15",
+      "time": "10-18 分钟",
+      "tags": [
+        "早餐",
+        "快手",
+        "省钱"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "早餐饼能把鸡蛋、面粉、葱花、蔬菜和剩菜组合起来，是早上最实用的自制早餐。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "早餐饼万能做法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：面粉、鸡蛋、清水、葱花、胡萝卜丝、盐、食用油。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "早餐饼万能做法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "面粉、鸡蛋、水和盐调成能流动的面糊。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "早餐饼万能做法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "加入葱花、胡萝卜丝或火腿丁，搅匀静置 3 分钟。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "早餐饼万能做法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "平底锅刷薄油，倒入面糊摊薄，小火煎到底部定型。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "早餐饼万能做法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "翻面再煎 1-2 分钟，切块后配豆浆或粥。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "早餐饼万能做法步骤4图"
+        }
+      ],
+      "intro": "早餐饼万能做法是在家做饭库 TOP 9。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "早餐饼能把鸡蛋、面粉、葱花、蔬菜和剩菜组合起来，是早上最实用的自制早餐。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "面粉",
+        "鸡蛋",
+        "清水",
+        "葱花",
+        "胡萝卜丝",
+        "盐",
+        "食用油"
+      ],
+      "steps": [
+        "面粉、鸡蛋、水和盐调成能流动的面糊。",
+        "加入葱花、胡萝卜丝或火腿丁，搅匀静置 3 分钟。",
+        "平底锅刷薄油，倒入面糊摊薄，小火煎到底部定型。",
+        "翻面再煎 1-2 分钟，切块后配豆浆或粥。"
+      ]
+    },
+    {
+      "id": "universal-soup",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 10,
+      "name": "快手家常汤",
+      "score": "90",
+      "price": "成本 4-20",
+      "time": "8-18 分钟",
+      "tags": [
+        "热汤",
+        "清爽",
+        "补水"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "番茄蛋汤、紫菜蛋花汤、豆腐青菜汤、菌菇汤都属于高频家常汤，能让一餐更完整。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "快手家常汤成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：番茄/紫菜/菌菇、鸡蛋、豆腐、青菜、盐、香油、葱花。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "快手家常汤食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "汤底食材先下锅煮出味，番茄可先炒出汁。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "快手家常汤步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "加入豆腐、菌菇或青菜，煮到刚熟。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "快手家常汤步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "转小火淋入蛋液，静置几秒再轻推形成蛋花。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "快手家常汤步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "最后放盐、香油和葱花，趁热喝。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "快手家常汤步骤4图"
+        }
+      ],
+      "intro": "快手家常汤是在家做饭库 TOP 10。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "番茄蛋汤、紫菜蛋花汤、豆腐青菜汤、菌菇汤都属于高频家常汤，能让一餐更完整。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "番茄/紫菜/菌菇",
+        "鸡蛋",
+        "豆腐",
+        "青菜",
+        "盐",
+        "香油",
+        "葱花"
+      ],
+      "steps": [
+        "汤底食材先下锅煮出味，番茄可先炒出汁。",
+        "加入豆腐、菌菇或青菜，煮到刚熟。",
+        "转小火淋入蛋液，静置几秒再轻推形成蛋花。",
+        "最后放盐、香油和葱花，趁热喝。"
+      ]
+    },
+    {
+      "id": "universal-dumpling-filling",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 11,
+      "name": "饺子馅万能调法",
+      "score": "89",
+      "price": "成本 12-35",
+      "time": "25-45 分钟",
+      "tags": [
+        "主食",
+        "囤货",
+        "家庭"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "饺子馅公式适合猪肉白菜、韭菜鸡蛋、三鲜、牛肉大葱等常见馅，周末囤一点很省心。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "饺子馅万能调法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：肉馅或鸡蛋、蔬菜、葱姜水、生抽、盐、香油、食用油。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "饺子馅万能调法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "肉馅分次加入葱姜水，顺一个方向搅到发黏。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "饺子馅万能调法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "加入生抽、盐和少量香油调底味。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "饺子馅万能调法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "蔬菜切碎挤水后再拌入，避免馅料出汤。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "饺子馅万能调法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "最后加食用油封住水分，包之前再轻轻拌匀。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "饺子馅万能调法步骤4图"
+        }
+      ],
+      "intro": "饺子馅万能调法是在家做饭库 TOP 11。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "饺子馅公式适合猪肉白菜、韭菜鸡蛋、三鲜、牛肉大葱等常见馅，周末囤一点很省心。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "肉馅或鸡蛋",
+        "蔬菜",
+        "葱姜水",
+        "生抽",
+        "盐",
+        "香油",
+        "食用油"
+      ],
+      "steps": [
+        "肉馅分次加入葱姜水，顺一个方向搅到发黏。",
+        "加入生抽、盐和少量香油调底味。",
+        "蔬菜切碎挤水后再拌入，避免馅料出汤。",
+        "最后加食用油封住水分，包之前再轻轻拌匀。"
+      ]
+    },
+    {
+      "id": "universal-noodle-sauce",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 12,
+      "name": "拌面万能酱汁",
+      "score": "88",
+      "price": "成本 4-18",
+      "time": "8-12 分钟",
+      "tags": [
+        "拌面",
+        "快手",
+        "开胃"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "拌面酱汁能解决一个人懒得炒菜的问题，花生酱、芝麻酱、葱油、酸辣汁都能做变化。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "拌面万能酱汁成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：面条、芝麻酱/花生酱、生抽、醋、蒜末、辣椒油、黄瓜丝。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "拌面万能酱汁食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "面条煮到合适口感，捞出后沥水。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "拌面万能酱汁步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "芝麻酱或花生酱用温水慢慢澥开。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "拌面万能酱汁步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "加入生抽、醋、蒜末和辣椒油，调成能流动的酱汁。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "拌面万能酱汁步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "面条和酱汁拌匀，补黄瓜丝、鸡蛋或青菜。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "拌面万能酱汁步骤4图"
+        }
+      ],
+      "intro": "拌面万能酱汁是在家做饭库 TOP 12。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "拌面酱汁能解决一个人懒得炒菜的问题，花生酱、芝麻酱、葱油、酸辣汁都能做变化。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "面条",
+        "芝麻酱/花生酱",
+        "生抽",
+        "醋",
+        "蒜末",
+        "辣椒油",
+        "黄瓜丝"
+      ],
+      "steps": [
+        "面条煮到合适口感，捞出后沥水。",
+        "芝麻酱或花生酱用温水慢慢澥开。",
+        "加入生抽、醋、蒜末和辣椒油，调成能流动的酱汁。",
+        "面条和酱汁拌匀，补黄瓜丝、鸡蛋或青菜。"
+      ]
+    },
+    {
+      "id": "rice-cooker-meal",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 13,
+      "name": "电饭煲焖饭万能做法",
+      "score": "87",
+      "price": "成本 8-28",
+      "time": "30-45 分钟",
+      "tags": [
+        "懒人",
+        "一锅出",
+        "主食"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "电饭煲焖饭适合不想守锅的人，腊肠、鸡腿、土豆、胡萝卜、香菇都能和米饭一起成餐。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "电饭煲焖饭万能做法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：大米、腊肠/鸡腿肉、土豆、胡萝卜、香菇、生抽、蚝油。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "电饭煲焖饭万能做法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "大米洗净，加比平时略少的水。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "电饭煲焖饭万能做法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "肉和耐煮蔬菜切丁，用生抽、蚝油简单拌匀。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "电饭煲焖饭万能做法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "把配菜铺在米饭上，启动煮饭模式。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "电饭煲焖饭万能做法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "跳保温后焖 5 分钟，开盖撒葱花拌匀。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "电饭煲焖饭万能做法步骤4图"
+        }
+      ],
+      "intro": "电饭煲焖饭万能做法是在家做饭库 TOP 13。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "电饭煲焖饭适合不想守锅的人，腊肠、鸡腿、土豆、胡萝卜、香菇都能和米饭一起成餐。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "大米",
+        "腊肠/鸡腿肉",
+        "土豆",
+        "胡萝卜",
+        "香菇",
+        "生抽",
+        "蚝油"
+      ],
+      "steps": [
+        "大米洗净，加比平时略少的水。",
+        "肉和耐煮蔬菜切丁，用生抽、蚝油简单拌匀。",
+        "把配菜铺在米饭上，启动煮饭模式。",
+        "跳保温后焖 5 分钟，开盖撒葱花拌匀。"
+      ]
+    },
+    {
+      "id": "air-fryer-formula",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 14,
+      "name": "空气炸锅万能做法",
+      "score": "86",
+      "price": "成本 8-35",
+      "time": "15-30 分钟",
+      "tags": [
+        "少油",
+        "省心",
+        "酥香"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "空气炸锅适合鸡翅、土豆、南瓜、豆腐、鱼排、烤肠等，少油也能做出焦香感。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "空气炸锅万能做法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：鸡翅/土豆/豆腐、盐、黑胡椒、生抽、食用油、烧烤料。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "空气炸锅万能做法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "食材擦干水分，切成厚薄接近的大小。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "空气炸锅万能做法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "用盐、生抽、黑胡椒和少量油抓匀腌 10 分钟。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "空气炸锅万能做法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "空气炸锅预热后平铺食材，180-200 度烤。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "空气炸锅万能做法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "中途翻面，最后撒烧烤料或孜然，边缘焦香即可。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "空气炸锅万能做法步骤4图"
+        }
+      ],
+      "intro": "空气炸锅万能做法是在家做饭库 TOP 14。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "空气炸锅适合鸡翅、土豆、南瓜、豆腐、鱼排、烤肠等，少油也能做出焦香感。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "鸡翅/土豆/豆腐",
+        "盐",
+        "黑胡椒",
+        "生抽",
+        "食用油",
+        "烧烤料"
+      ],
+      "steps": [
+        "食材擦干水分，切成厚薄接近的大小。",
+        "用盐、生抽、黑胡椒和少量油抓匀腌 10 分钟。",
+        "空气炸锅预热后平铺食材，180-200 度烤。",
+        "中途翻面，最后撒烧烤料或孜然，边缘焦香即可。"
+      ]
+    },
+    {
+      "id": "universal-egg-dish",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 15,
+      "name": "鸡蛋快手菜万能做法",
+      "score": "85",
+      "price": "成本 3-15",
+      "time": "6-12 分钟",
+      "tags": [
+        "鸡蛋",
+        "快手",
+        "百搭"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "鸡蛋是最亲民的蛋白质，番茄、青椒、韭菜、虾仁、豆腐都能和它组成快手菜。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "鸡蛋快手菜万能做法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：鸡蛋、番茄/青椒/韭菜、盐、少量清水、葱花、食用油。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "鸡蛋快手菜万能做法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "鸡蛋加少量盐和清水打散，配菜切好。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "鸡蛋快手菜万能做法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "热锅下油，蛋液炒到刚凝固就盛出。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "鸡蛋快手菜万能做法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "配菜下锅炒到断生或出汁。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "鸡蛋快手菜万能做法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "鸡蛋回锅，补盐调味，快速翻匀出锅。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "鸡蛋快手菜万能做法步骤4图"
+        }
+      ],
+      "intro": "鸡蛋快手菜万能做法是在家做饭库 TOP 15。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "鸡蛋是最亲民的蛋白质，番茄、青椒、韭菜、虾仁、豆腐都能和它组成快手菜。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "鸡蛋",
+        "番茄/青椒/韭菜",
+        "盐",
+        "少量清水",
+        "葱花",
+        "食用油"
+      ],
+      "steps": [
+        "鸡蛋加少量盐和清水打散，配菜切好。",
+        "热锅下油，蛋液炒到刚凝固就盛出。",
+        "配菜下锅炒到断生或出汁。",
+        "鸡蛋回锅，补盐调味，快速翻匀出锅。"
+      ]
+    },
+    {
+      "id": "universal-tofu-dish",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 16,
+      "name": "豆腐下饭菜万能做法",
+      "score": "84",
+      "price": "成本 4-18",
+      "time": "10-18 分钟",
+      "tags": [
+        "豆腐",
+        "下饭",
+        "平价"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "豆腐便宜、好买、能吸味，麻婆、家常、肉末、番茄豆腐都能用这套逻辑。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "豆腐下饭菜万能做法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：豆腐、肉末或番茄、蒜末、生抽、蚝油、豆瓣酱、水淀粉。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "豆腐下饭菜万能做法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "豆腐切块，焯水或煎到表面微定型。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "豆腐下饭菜万能做法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "锅里炒香蒜末和肉末，也可以换成番茄炒汁。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "豆腐下饭菜万能做法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "加入生抽、蚝油和少量热水，放入豆腐轻推。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "豆腐下饭菜万能做法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "中火煮入味，最后用水淀粉薄芡收汁。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "豆腐下饭菜万能做法步骤4图"
+        }
+      ],
+      "intro": "豆腐下饭菜万能做法是在家做饭库 TOP 16。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "豆腐便宜、好买、能吸味，麻婆、家常、肉末、番茄豆腐都能用这套逻辑。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "豆腐",
+        "肉末或番茄",
+        "蒜末",
+        "生抽",
+        "蚝油",
+        "豆瓣酱",
+        "水淀粉"
+      ],
+      "steps": [
+        "豆腐切块，焯水或煎到表面微定型。",
+        "锅里炒香蒜末和肉末，也可以换成番茄炒汁。",
+        "加入生抽、蚝油和少量热水，放入豆腐轻推。",
+        "中火煮入味，最后用水淀粉薄芡收汁。"
+      ]
+    },
+    {
+      "id": "universal-potato-dish",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 17,
+      "name": "土豆万能做法",
+      "score": "83",
+      "price": "成本 3-12",
+      "time": "10-25 分钟",
+      "tags": [
+        "土豆",
+        "顶饱",
+        "便宜"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "土豆便宜顶饱，酸辣土豆丝、土豆片、炖土豆、土豆泥、空气炸锅土豆都很适合普通家庭。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "土豆万能做法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：土豆、蒜末、醋、生抽、盐、辣椒、葱花。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "土豆万能做法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "想快炒就切丝泡水，想炖菜就切块直接下锅。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "土豆万能做法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "炒法先爆香蒜末和辣椒，大火下土豆快速翻炒。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "土豆万能做法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "炖法先煎或炒香土豆块，再加热水焖软。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "土豆万能做法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "按口味加醋、生抽和盐，最后撒葱花。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "土豆万能做法步骤4图"
+        }
+      ],
+      "intro": "土豆万能做法是在家做饭库 TOP 17。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "土豆便宜顶饱，酸辣土豆丝、土豆片、炖土豆、土豆泥、空气炸锅土豆都很适合普通家庭。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "土豆",
+        "蒜末",
+        "醋",
+        "生抽",
+        "盐",
+        "辣椒",
+        "葱花"
+      ],
+      "steps": [
+        "想快炒就切丝泡水，想炖菜就切块直接下锅。",
+        "炒法先爆香蒜末和辣椒，大火下土豆快速翻炒。",
+        "炖法先煎或炒香土豆块，再加热水焖软。",
+        "按口味加醋、生抽和盐，最后撒葱花。"
+      ]
+    },
+    {
+      "id": "universal-congee",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 18,
+      "name": "早餐粥万能做法",
+      "score": "82",
+      "price": "成本 3-18",
+      "time": "25-45 分钟",
+      "tags": [
+        "早餐",
+        "热乎",
+        "养胃"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "早餐粥能接住皮蛋瘦肉、南瓜、小米、青菜鸡丝等变化，适合想吃温和一点的时候。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "早餐粥万能做法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：大米/小米、清水、瘦肉或南瓜、姜丝、盐、青菜、香油。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "早餐粥万能做法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "米洗净后浸泡 20 分钟，加足水煮开。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "早餐粥万能做法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "转小火慢煮到米粒开花，中途搅动防粘底。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "早餐粥万能做法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "加入瘦肉丝、南瓜或皮蛋等配料继续煮。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "早餐粥万能做法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "最后放青菜和盐，出锅前滴一点香油。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "早餐粥万能做法步骤4图"
+        }
+      ],
+      "intro": "早餐粥万能做法是在家做饭库 TOP 18。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "早餐粥能接住皮蛋瘦肉、南瓜、小米、青菜鸡丝等变化，适合想吃温和一点的时候。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "大米/小米",
+        "清水",
+        "瘦肉或南瓜",
+        "姜丝",
+        "盐",
+        "青菜",
+        "香油"
+      ],
+      "steps": [
+        "米洗净后浸泡 20 分钟，加足水煮开。",
+        "转小火慢煮到米粒开花，中途搅动防粘底。",
+        "加入瘦肉丝、南瓜或皮蛋等配料继续煮。",
+        "最后放青菜和盐，出锅前滴一点香油。"
+      ]
+    },
+    {
+      "id": "universal-fish-steam",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 19,
+      "name": "清蒸鱼万能做法",
+      "score": "81",
+      "price": "成本 18-55",
+      "time": "12-20 分钟",
+      "tags": [
+        "少油",
+        "鱼肉",
+        "鲜味"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "清蒸鱼适合鲈鱼、鲫鱼、鱼片等水产，少油但很有鲜味，是健康自己做的高性价比技能。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "清蒸鱼万能做法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：鲜鱼或鱼片、葱姜、料酒、蒸鱼豉油、食用油、盐。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "清蒸鱼万能做法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "鱼处理干净，表面擦干，铺姜片和葱段。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "清蒸鱼万能做法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "水开上汽后放鱼，大火蒸 8-12 分钟，按厚度调整。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "清蒸鱼万能做法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "出锅倒掉盘底腥水，重新铺葱丝。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "清蒸鱼万能做法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "淋蒸鱼豉油，再浇少量热油激香。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "清蒸鱼万能做法步骤4图"
+        }
+      ],
+      "intro": "清蒸鱼万能做法是在家做饭库 TOP 19。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "清蒸鱼适合鲈鱼、鲫鱼、鱼片等水产，少油但很有鲜味，是健康自己做的高性价比技能。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "鲜鱼或鱼片",
+        "葱姜",
+        "料酒",
+        "蒸鱼豉油",
+        "食用油",
+        "盐"
+      ],
+      "steps": [
+        "鱼处理干净，表面擦干，铺姜片和葱段。",
+        "水开上汽后放鱼，大火蒸 8-12 分钟，按厚度调整。",
+        "出锅倒掉盘底腥水，重新铺葱丝。",
+        "淋蒸鱼豉油，再浇少量热油激香。"
+      ]
+    },
+    {
+      "id": "universal-meal-prep",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 20,
+      "name": "一周带饭万能搭配",
+      "score": "80",
+      "price": "成本 40-120",
+      "time": "60-90 分钟",
+      "tags": [
+        "备餐",
+        "健康",
+        "省钱"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "带饭搭配能解决工作日午餐贵、油、选择困难的问题，按主食、蛋白质、蔬菜三格组合就很稳。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "一周带饭万能搭配成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：米饭/杂粮、鸡腿/牛肉/豆腐、西兰花/青菜、鸡蛋、菌菇、基础调味。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "一周带饭万能搭配食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "先煮主食，同时处理蛋白质和耐放蔬菜。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "一周带饭万能搭配步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "蛋白质用煎、蒸、炖三种方式轮换，避免全是重口。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "一周带饭万能搭配步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "蔬菜以西兰花、胡萝卜、菌菇、豆角等耐复热食材为主。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "一周带饭万能搭配步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "饭盒放凉后再盖盖冷藏，第二天复热口感更稳。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "一周带饭万能搭配步骤4图"
+        }
+      ],
+      "intro": "一周带饭万能搭配是在家做饭库 TOP 20。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "带饭搭配能解决工作日午餐贵、油、选择困难的问题，按主食、蛋白质、蔬菜三格组合就很稳。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "米饭/杂粮",
+        "鸡腿/牛肉/豆腐",
+        "西兰花/青菜",
+        "鸡蛋",
+        "菌菇",
+        "基础调味"
+      ],
+      "steps": [
+        "先煮主食，同时处理蛋白质和耐放蔬菜。",
+        "蛋白质用煎、蒸、炖三种方式轮换，避免全是重口。",
+        "蔬菜以西兰花、胡萝卜、菌菇、豆角等耐复热食材为主。",
+        "饭盒放凉后再盖盖冷藏，第二天复热口感更稳。"
+      ]
+    },
+    {
+      "id": "universal-leftover-makeover",
+      "category": "cook",
+      "categoryId": "universal",
+      "categoryName": "万能做法",
+      "categoryIcon": "书",
+      "categoryColor": "#7c5cff",
+      "typeLabel": "万能公式",
+      "rank": 21,
+      "name": "剩菜变新菜万能法",
+      "score": "79",
+      "price": "成本 0-15",
+      "time": "8-18 分钟",
+      "tags": [
+        "不浪费",
+        "快手",
+        "灵活"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "剩米饭、剩肉菜、剩蔬菜都能二次加工成炒饭、汤面、焖饭或小炒，省钱也减少浪费。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "剩菜变新菜万能法成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：剩米饭/剩菜、鸡蛋、葱花、青菜、生抽、热水。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "剩菜变新菜万能法食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "先确认剩菜没有异味，再按主食、肉菜、蔬菜分类。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "剩菜变新菜万能法步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "剩饭适合炒饭或焖饭，剩肉菜适合加青菜回锅。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "剩菜变新菜万能法步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "剩菜偏咸就加主食或豆腐，偏干就补少量热水。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "剩菜变新菜万能法步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "最后用鸡蛋、葱花或青菜补新鲜感。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "剩菜变新菜万能法步骤4图"
+        }
+      ],
+      "intro": "剩菜变新菜万能法是在家做饭库 TOP 21。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "剩米饭、剩肉菜、剩蔬菜都能二次加工成炒饭、汤面、焖饭或小炒，省钱也减少浪费。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "剩米饭/剩菜",
+        "鸡蛋",
+        "葱花",
+        "青菜",
+        "生抽",
+        "热水"
+      ],
+      "steps": [
+        "先确认剩菜没有异味，再按主食、肉菜、蔬菜分类。",
+        "剩饭适合炒饭或焖饭，剩肉菜适合加青菜回锅。",
+        "剩菜偏咸就加主食或豆腐，偏干就补少量热水。",
+        "最后用鸡蛋、葱花或青菜补新鲜感。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "lazy",
+  "guides": [
+    {
+      "id": "rice-cooker-chicken-rice",
+      "category": "cook",
+      "categoryId": "lazy",
+      "categoryName": "懒人电器",
+      "categoryIcon": "懒",
+      "categoryColor": "#d9c2ff",
+      "typeLabel": "家常菜谱",
+      "rank": 32,
+      "name": "电饭煲鸡腿饭",
+      "score": "68",
+      "price": "成本 12-28",
+      "time": "35-50 分钟",
+      "tags": [
+        "懒人",
+        "一锅出",
+        "主食"
+      ],
+      "video": "",
+      "images": {
+        "cover": "",
+        "thumbnail": "",
+        "menu": "",
+        "ingredients": "",
+        "finished": "",
+        "steps": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      "articleBlocks": [
+        {
+          "type": "intro",
+          "title": "先看一眼",
+          "text": "电饭煲鸡腿饭能把主食和肉菜一次做好，适合不想洗太多锅的人。",
+          "imageUrl": "",
+          "imageRole": "cover",
+          "imageAlt": "电饭煲鸡腿饭成品图"
+        },
+        {
+          "type": "ingredients",
+          "title": "备料清单",
+          "text": "主要准备：大米、鸡腿肉、香菇、胡萝卜、生抽、蚝油、葱花。",
+          "imageUrl": "",
+          "imageRole": "ingredients",
+          "imageAlt": "电饭煲鸡腿饭食材图"
+        },
+        {
+          "type": "step",
+          "title": "第 1 步",
+          "text": "大米洗净，水量比平时略少。",
+          "imageUrl": "",
+          "imageRole": "step-1",
+          "imageAlt": "电饭煲鸡腿饭步骤1图"
+        },
+        {
+          "type": "step",
+          "title": "第 2 步",
+          "text": "鸡腿肉切块，用生抽、蚝油腌 10 分钟。",
+          "imageUrl": "",
+          "imageRole": "step-2",
+          "imageAlt": "电饭煲鸡腿饭步骤2图"
+        },
+        {
+          "type": "step",
+          "title": "第 3 步",
+          "text": "香菇和胡萝卜切丁，和鸡肉铺在米上。",
+          "imageUrl": "",
+          "imageRole": "step-3",
+          "imageAlt": "电饭煲鸡腿饭步骤3图"
+        },
+        {
+          "type": "step",
+          "title": "第 4 步",
+          "text": "启动煮饭，跳保温后焖 5 分钟再拌匀。",
+          "imageUrl": "",
+          "imageRole": "step-4",
+          "imageAlt": "电饭煲鸡腿饭步骤4图"
+        }
+      ],
+      "intro": "电饭煲鸡腿饭是在家做饭库 TOP 32。它更看重普通家庭厨房的复用度、失败率、成本和健康感，适合想自己做饭但不想每天重新学一道菜的人。",
+      "reason": "电饭煲鸡腿饭能把主食和肉菜一次做好，适合不想洗太多锅的人。",
+      "tips": [],
+      "bonusTips": [],
+      "ingredients": [
+        "大米",
+        "鸡腿肉",
+        "香菇",
+        "胡萝卜",
+        "生抽",
+        "蚝油",
+        "葱花"
+      ],
+      "steps": [
+        "大米洗净，水量比平时略少。",
+        "鸡腿肉切块，用生抽、蚝油腌 10 分钟。",
+        "香菇和胡萝卜切丁，和鸡肉铺在米上。",
+        "启动煮饭，跳保温后焖 5 分钟再拌匀。"
+      ]
+    }
+  ]
+}
