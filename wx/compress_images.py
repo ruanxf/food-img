@@ -15,12 +15,12 @@ from pathlib import Path
 from PIL import Image
 
 SUPPORTED_EXTS = {".jpg", ".jpeg", ".png", ".webp", ".bmp", ".tiff"}
-QUALITY = 75
+QUALITY = 80
 MAX_SIZE = 512
 
 
 def compress_image(src: Path, dst: Path) -> tuple[int, int]:
-    dst = dst.with_suffix(".jpg")
+    dst = dst.with_suffix(".png")
     dst.parent.mkdir(parents=True, exist_ok=True)
     with Image.open(src) as img:
         original_size = src.stat().st_size
@@ -47,9 +47,10 @@ def find_images(root: Path, output_dir: Path):
 
 def main():
     root = Path(__file__).resolve().parent
-    output_dir = root / "new"
+    input_dir = root / "detail-cook"
+    output_dir = root / "newtem"
 
-    images = list(find_images(root, output_dir))
+    images = list(find_images(input_dir, output_dir))
     if not images:
         print("未找到可压缩的图片")
         return
@@ -58,7 +59,7 @@ def main():
     total_compressed = 0
 
     for src in images:
-        rel = src.relative_to(root)
+        rel = src.relative_to(input_dir)
         dst = output_dir / rel
         try:
             original_size, compressed_size = compress_image(src, dst)
