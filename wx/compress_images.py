@@ -47,8 +47,8 @@ def find_images(root: Path, output_dir: Path):
 
 def main():
     root = Path(__file__).resolve().parent
-    input_dir = root / "detail-cook"
-    output_dir = root / "newtem"
+    input_dir = root / "old"
+    output_dir = root / "new"
 
     images = list(find_images(input_dir, output_dir))
     if not images:
