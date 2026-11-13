@@ -20,11 +20,11 @@ from PIL import Image
 
 SUPPORTED_EXTS = {".jpg", ".jpeg", ".png", ".webp", ".bmp", ".tiff"}
 # food
-QUALITY = 80
-MAX_SIZE = 512
+# QUALITY = 80
+# MAX_SIZE = 512
 # food-cook
-# QUALITY = 100
-# MAX_SIZE = 1024
+QUALITY = 100
+MAX_SIZE = 1024
 SIZE_LIMIT_KB = 150  # 设定图片站内内存kb大小的阈值：150 KB
 
 
@@ -64,7 +64,7 @@ def find_images(root: Path, output_dir: Path):
 
 def main():
     root = Path(__file__).resolve().parent
-    input_dir = root / "wx-food/food"
+    input_dir = root / "old"
     output_dir = root / "new"
 
     images = list(find_images(input_dir, output_dir))
