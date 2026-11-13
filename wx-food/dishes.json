@@ -9,7 +9,7 @@
       "name": "三鲜水饺",
       "categoryId": "dumpling",
       "food": "food/dumpling/三鲜水饺.jpg",
-      "cook": "food-cook/dumpling/三鲜水饺.png",
+      "cook": "food-cook/dumpling/三鲜水饺.jpg",
       "status": "complete"
     },
     {
@@ -25,7 +25,7 @@
       "name": "小笼包",
       "categoryId": "dumpling",
       "food": "food/dumpling/小笼包.jpg",
-      "cook": "food-cook/dumpling/小笼包.png",
+      "cook": "food-cook/dumpling/小笼包.jpg",
       "status": "complete"
     },
     {
@@ -33,7 +33,7 @@
       "name": "灌汤包",
       "categoryId": "dumpling",
       "food": "food/dumpling/灌汤包.jpg",
-      "cook": "food-cook/dumpling/灌汤包.png",
+      "cook": "food-cook/dumpling/灌汤包.jpg",
       "status": "complete"
     },
     {
@@ -41,7 +41,7 @@
       "name": "烧卖",
       "categoryId": "dumpling",
       "food": "food/dumpling/烧卖.jpg",
-      "cook": "food-cook/dumpling/烧卖.png",
+      "cook": "food-cook/dumpling/烧卖.jpg",
       "status": "complete"
     },
     {
@@ -49,7 +49,7 @@
       "name": "牛肉煎包",
       "categoryId": "dumpling",
       "food": "food/dumpling/牛肉煎包.jpg",
-      "cook": "food-cook/dumpling/牛肉煎包.png",
+      "cook": "food-cook/dumpling/牛肉煎包.jpg",
       "status": "complete"
     },
     {
@@ -57,7 +57,7 @@
       "name": "猪肉大葱饺子",
       "categoryId": "dumpling",
       "food": "food/dumpling/猪肉大葱饺子.jpg",
-      "cook": "food-cook/dumpling/猪肉大葱饺子.png",
+      "cook": "food-cook/dumpling/猪肉大葱饺子.jpg",
       "status": "complete"
     },
     {
@@ -65,7 +65,7 @@
       "name": "猪肉白菜水饺",
       "categoryId": "dumpling",
       "food": "food/dumpling/猪肉白菜水饺.jpg",
-      "cook": "food-cook/dumpling/猪肉白菜水饺.png",
+      "cook": "food-cook/dumpling/猪肉白菜水饺.jpg",
       "status": "complete"
     },
     {
@@ -73,7 +73,7 @@
       "name": "生煎包",
       "categoryId": "dumpling",
       "food": "food/dumpling/生煎包.jpg",
-      "cook": "food-cook/dumpling/生煎包.png",
+      "cook": "food-cook/dumpling/生煎包.jpg",
       "status": "complete"
     },
     {
@@ -81,7 +81,7 @@
       "name": "红油抄手",
       "categoryId": "dumpling",
       "food": "food/dumpling/红油抄手.jpg",
-      "cook": "food-cook/dumpling/红油抄手.png",
+      "cook": "food-cook/dumpling/红油抄手.jpg",
       "status": "complete"
     },
     {
@@ -89,7 +89,7 @@
       "name": "肉包豆浆套餐",
       "categoryId": "dumpling",
       "food": "food/dumpling/肉包豆浆套餐.jpg",
-      "cook": "food-cook/dumpling/肉包豆浆套餐.png",
+      "cook": "food-cook/dumpling/肉包豆浆套餐.jpg",
       "status": "complete"
     },
     {
@@ -97,7 +97,7 @@
       "name": "菜包粥套餐",
       "categoryId": "dumpling",
       "food": "food/dumpling/菜包粥套餐.jpg",
-      "cook": "food-cook/dumpling/菜包粥套餐.png",
+      "cook": "food-cook/dumpling/菜包粥套餐.jpg",
       "status": "complete"
     },
     {
@@ -105,7 +105,7 @@
       "name": "蒸饺套餐",
       "categoryId": "dumpling",
       "food": "food/dumpling/蒸饺套餐.jpg",
-      "cook": "food-cook/dumpling/蒸饺套餐.png",
+      "cook": "food-cook/dumpling/蒸饺套餐.jpg",
       "status": "complete"
     },
     {
@@ -153,7 +153,7 @@
       "name": "鲅鱼水饺",
       "categoryId": "dumpling",
       "food": "food/dumpling/鲅鱼水饺.jpg",
-      "cook": "food-cook/dumpling/鲅鱼水饺.png",
+      "cook": "food-cook/dumpling/鲅鱼水饺.jpg",
       "status": "complete"
     },
     {
@@ -329,7 +329,7 @@
       "name": "地锅鸡",
       "categoryId": "group",
       "food": "food/group/地锅鸡.jpg",
-      "cook": "food-cook/group/地锅鸡.png",
+      "cook": "food-cook/group/地锅鸡.jpg",
       "status": "complete"
     },
     {
@@ -337,7 +337,7 @@
       "name": "大盘鸡",
       "categoryId": "group",
       "food": "food/group/大盘鸡.jpg",
-      "cook": "food-cook/group/大盘鸡.png",
+      "cook": "food-cook/group/大盘鸡.jpg",
       "status": "complete"
     },
     {
@@ -345,7 +345,7 @@
       "name": "寿喜锅",
       "categoryId": "group",
       "food": "food/group/寿喜锅.jpg",
-      "cook": "food-cook/group/寿喜锅.png",
+      "cook": "food-cook/group/寿喜锅.jpg",
       "status": "complete"
     },
     {
@@ -353,7 +353,7 @@
       "name": "小龙虾大份餐",
       "categoryId": "group",
       "food": "food/group/小龙虾大份餐.jpg",
-      "cook": "food-cook/group/小龙虾大份餐.png",
+      "cook": "food-cook/group/小龙虾大份餐.jpg",
       "status": "complete"
     },
     {
@@ -370,7 +370,7 @@
       "name": "披萨套餐",
       "categoryId": "group",
       "food": "food/group/披萨套餐.jpg",
-      "cook": "food-cook/group/披萨套餐.png",
+      "cook": "food-cook/group/披萨套餐.jpg",
       "status": "complete"
     },
     {
@@ -378,7 +378,7 @@
       "name": "椰子鸡",
       "categoryId": "group",
       "food": "food/group/椰子鸡.jpg",
-      "cook": "food-cook/group/椰子鸡.png",
+      "cook": "food-cook/group/椰子鸡.jpg",
       "status": "complete"
     },
     {
@@ -386,7 +386,7 @@
       "name": "火锅套餐",
       "categoryId": "group",
       "food": "food/group/火锅套餐.jpg",
-      "cook": "food-cook/group/火锅套餐.png",
+      "cook": "food-cook/group/火锅套餐.jpg",
       "status": "complete"
     },
     {
@@ -394,7 +394,7 @@
       "name": "炒菜四人套餐",
       "categoryId": "group",
       "food": "food/group/炒菜四人套餐.jpg",
-      "cook": "food-cook/group/炒菜四人套餐.png",
+      "cook": "food-cook/group/炒菜四人套餐.jpg",
       "status": "complete"
     },
     {
@@ -402,7 +402,7 @@
       "name": "炸鸡全家桶",
       "categoryId": "group",
       "food": "food/group/炸鸡全家桶.jpg",
-      "cook": "food-cook/group/炸鸡全家桶.png",
+      "cook": "food-cook/group/炸鸡全家桶.jpg",
       "status": "complete"
     },
     {
@@ -410,7 +410,7 @@
       "name": "烤肉拼盘",
       "categoryId": "group",
       "food": "food/group/烤肉拼盘.jpg",
-      "cook": "food-cook/group/烤肉拼盘.png",
+      "cook": "food-cook/group/烤肉拼盘.jpg",
       "status": "complete"
     },
     {
@@ -418,7 +418,7 @@
       "name": "烤鱼套餐",
       "categoryId": "group",
       "food": "food/group/烤鱼套餐.jpg",
-      "cook": "food-cook/group/烤鱼套餐.png",
+      "cook": "food-cook/group/烤鱼套餐.jpg",
       "status": "complete"
     },
     {
@@ -426,7 +426,7 @@
       "name": "牛蛙锅",
       "categoryId": "group",
       "food": "food/group/牛蛙锅.jpg",
-      "cook": "food-cook/group/牛蛙锅.png",
+      "cook": "food-cook/group/牛蛙锅.jpg",
       "status": "complete"
     },
     {
@@ -434,7 +434,7 @@
       "name": "猪肚鸡",
       "categoryId": "group",
       "food": "food/group/猪肚鸡.jpg",
-      "cook": "food-cook/group/猪肚鸡.png",
+      "cook": "food-cook/group/猪肚鸡.jpg",
       "status": "complete"
     },
     {
@@ -442,7 +442,7 @@
       "name": "砂锅粥大份餐",
       "categoryId": "group",
       "food": "food/group/砂锅粥大份餐.jpg",
-      "cook": "food-cook/group/砂锅粥大份餐.png",
+      "cook": "food-cook/group/砂锅粥大份餐.jpg",
       "status": "complete"
     },
     {
@@ -450,7 +450,7 @@
       "name": "部队锅",
       "categoryId": "group",
       "food": "food/group/部队锅.jpg",
-      "cook": "food-cook/group/部队锅.png",
+      "cook": "food-cook/group/部队锅.jpg",
       "status": "complete"
     },
     {
@@ -458,7 +458,7 @@
       "name": "酸菜鱼双人餐",
       "categoryId": "group",
       "food": "food/group/酸菜鱼双人餐.jpg",
-      "cook": "food-cook/group/酸菜鱼双人餐.png",
+      "cook": "food-cook/group/酸菜鱼双人餐.jpg",
       "status": "complete"
     },
     {
@@ -466,7 +466,7 @@
       "name": "铁锅炖",
       "categoryId": "group",
       "food": "food/group/铁锅炖.jpg",
-      "cook": "food-cook/group/铁锅炖.png",
+      "cook": "food-cook/group/铁锅炖.jpg",
       "status": "complete"
     },
     {
@@ -474,7 +474,7 @@
       "name": "饺子拼盘",
       "categoryId": "group",
       "food": "food/group/饺子拼盘.jpg",
-      "cook": "food-cook/group/饺子拼盘.png",
+      "cook": "food-cook/group/饺子拼盘.jpg",
       "status": "complete"
     },
     {
@@ -482,7 +482,7 @@
       "name": "麻辣香锅双人锅",
       "categoryId": "group",
       "food": "food/group/麻辣香锅双人锅.jpg",
-      "cook": "food-cook/group/麻辣香锅双人锅.png",
+      "cook": "food-cook/group/麻辣香锅双人锅.jpg",
       "status": "complete"
     },
     {
@@ -514,7 +514,7 @@
       "name": "宫保鸡丁",
       "categoryId": "home",
       "food": "food/home/宫保鸡丁.jpg",
-      "cook": "food-cook/home/宫保鸡丁.png",
+      "cook": "food-cook/home/宫保鸡丁.jpg",
       "status": "complete",
       "source": "legacy"
     },
@@ -531,7 +531,7 @@
       "name": "小炒黄牛肉",
       "categoryId": "home",
       "food": "food/home/小炒黄牛肉.jpg",
-      "cook": "food-cook/home/小炒黄牛肉.png",
+      "cook": "food-cook/home/小炒黄牛肉.jpg",
       "status": "complete",
       "source": "legacy",
       "categoryInferred": true
@@ -541,7 +541,7 @@
       "name": "木须肉",
       "categoryId": "home",
       "food": "food/home/木须肉.jpg",
-      "cook": "food-cook/home/木须肉.png",
+      "cook": "food-cook/home/木须肉.jpg",
       "status": "complete"
     },
     {
@@ -605,7 +605,7 @@
       "name": "蚂蚁上树",
       "categoryId": "home",
       "food": "food/home/蚂蚁上树.jpg",
-      "cook": "food-cook/home/蚂蚁上树.png",
+      "cook": "food-cook/home/蚂蚁上树.jpg",
       "status": "complete",
       "source": "legacy"
     },
@@ -614,7 +614,7 @@
       "name": "豆角炒肉",
       "categoryId": "home",
       "food": "food/home/豆角炒肉.jpg",
-      "cook": "food-cook/home/豆角炒肉.png",
+      "cook": "food-cook/home/豆角炒肉.jpg",
       "status": "complete"
     },
     {
@@ -638,7 +638,7 @@
       "name": "青椒肉丝",
       "categoryId": "home",
       "food": "food/home/青椒肉丝.jpg",
-      "cook": "food-cook/home/青椒肉丝.png",
+      "cook": "food-cook/home/青椒肉丝.jpg",
       "status": "complete"
     },
     {
@@ -646,7 +646,7 @@
       "name": "香菇青菜",
       "categoryId": "home",
       "food": "food/home/香菇青菜.jpg",
-      "cook": "food-cook/home/香菇青菜.png",
+      "cook": "food-cook/home/香菇青菜.jpg",
       "status": "complete"
     },
     {
@@ -654,7 +654,7 @@
       "name": "鱼香肉丝",
       "categoryId": "home",
       "food": "food/home/鱼香肉丝.jpg",
-      "cook": "food-cook/home/鱼香肉丝.png",
+      "cook": "food-cook/home/鱼香肉丝.jpg",
       "status": "complete",
       "source": "legacy"
     },
@@ -663,7 +663,7 @@
       "name": "鱼香茄子",
       "categoryId": "home",
       "food": "food/home/鱼香茄子.jpg",
-      "cook": "food-cook/home/鱼香茄子.png",
+      "cook": "food-cook/home/鱼香茄子.jpg",
       "status": "complete",
       "source": "legacy",
       "categoryInferred": true
@@ -673,7 +673,7 @@
       "name": "三明治套餐",
       "categoryId": "light",
       "food": "food/light/三明治套餐.jpg",
-      "cook": "food-cook/light/三明治套餐.png",
+      "cook": "food-cook/light/三明治套餐.jpg",
       "status": "complete"
     },
     {
@@ -681,7 +681,7 @@
       "name": "低脂鸡肉卷",
       "categoryId": "light",
       "food": "food/light/低脂鸡肉卷.jpg",
-      "cook": "food-cook/light/低脂鸡肉卷.png",
+      "cook": "food-cook/light/低脂鸡肉卷.jpg",
       "status": "complete"
     },
     {
@@ -689,7 +689,7 @@
       "name": "寿司拼盘",
       "categoryId": "light",
       "food": "food/light/寿司拼盘.jpg",
-      "cook": "food-cook/light/寿司拼盘.png",
+      "cook": "food-cook/light/寿司拼盘.jpg",
       "status": "complete"
     },
     {
@@ -697,7 +697,7 @@
       "name": "杂粮饭鸡腿套餐",
       "categoryId": "light",
       "food": "food/light/杂粮饭鸡腿套餐.jpg",
-      "cook": "food-cook/light/杂粮饭鸡腿套餐.png",
+      "cook": "food-cook/light/杂粮饭鸡腿套餐.jpg",
       "status": "complete"
     },
     {
@@ -705,7 +705,7 @@
       "name": "清汤牛肉粉",
       "categoryId": "light",
       "food": "food/light/清汤牛肉粉.jpg",
-      "cook": "food-cook/light/清汤牛肉粉.png",
+      "cook": "food-cook/light/清汤牛肉粉.jpg",
       "status": "complete"
     },
     {
@@ -713,7 +713,7 @@
       "name": "清蒸鱼饭",
       "categoryId": "light",
       "food": "food/light/清蒸鱼饭.jpg",
-      "cook": "food-cook/light/清蒸鱼饭.png",
+      "cook": "food-cook/light/清蒸鱼饭.jpg",
       "status": "complete"
     },
     {
@@ -721,7 +721,7 @@
       "name": "牛油果鸡蛋吐司",
       "categoryId": "light",
       "food": "food/light/牛油果鸡蛋吐司.jpg",
-      "cook": "food-cook/light/牛油果鸡蛋吐司.png",
+      "cook": "food-cook/light/牛油果鸡蛋吐司.jpg",
       "status": "complete"
     },
     {
@@ -729,7 +729,7 @@
       "name": "牛肉轻食碗",
       "categoryId": "light",
       "food": "food/light/牛肉轻食碗.jpg",
-      "cook": "food-cook/light/牛肉轻食碗.png",
+      "cook": "food-cook/light/牛肉轻食碗.jpg",
       "status": "complete"
     },
     {
@@ -737,7 +737,7 @@
       "name": "玉米鸡蛋沙拉",
       "categoryId": "light",
       "food": "food/light/玉米鸡蛋沙拉.jpg",
-      "cook": "food-cook/light/玉米鸡蛋沙拉.png",
+      "cook": "food-cook/light/玉米鸡蛋沙拉.jpg",
       "status": "complete"
     },
     {
@@ -745,7 +745,7 @@
       "name": "番茄牛腩汤饭",
       "categoryId": "light",
       "food": "food/light/番茄牛腩汤饭.jpg",
-      "cook": "food-cook/light/番茄牛腩汤饭.png",
+      "cook": "food-cook/light/番茄牛腩汤饭.jpg",
       "status": "complete"
     },
     {
@@ -753,7 +753,7 @@
       "name": "番茄鸡蛋面",
       "categoryId": "light",
       "food": "food/light/番茄鸡蛋面.jpg",
-      "cook": "food-cook/light/番茄鸡蛋面.png",
+      "cook": "food-cook/light/番茄鸡蛋面.jpg",
       "status": "complete"
     },
     {
@@ -761,7 +761,7 @@
       "name": "白灼虾饭",
       "categoryId": "light",
       "food": "food/light/白灼虾饭.jpg",
-      "cook": "food-cook/light/白灼虾饭.png",
+      "cook": "food-cook/light/白灼虾饭.jpg",
       "status": "complete"
     },
     {
@@ -769,7 +769,7 @@
       "name": "紫菜包饭",
       "categoryId": "light",
       "food": "food/light/紫菜包饭.jpg",
-      "cook": "food-cook/light/紫菜包饭.png",
+      "cook": "food-cook/light/紫菜包饭.jpg",
       "status": "complete"
     },
     {
@@ -777,7 +777,7 @@
       "name": "菌菇鸡汤饭",
       "categoryId": "light",
       "food": "food/light/菌菇鸡汤饭.jpg",
-      "cook": "food-cook/light/菌菇鸡汤饭.png",
+      "cook": "food-cook/light/菌菇鸡汤饭.jpg",
       "status": "complete"
     },
     {
@@ -785,7 +785,7 @@
       "name": "蒸蛋套餐",
       "categoryId": "light",
       "food": "food/light/蒸蛋套餐.jpg",
-      "cook": "food-cook/light/蒸蛋套餐.png",
+      "cook": "food-cook/light/蒸蛋套餐.jpg",
       "status": "complete"
     },
     {
@@ -793,7 +793,7 @@
       "name": "蔬菜豆腐汤饭",
       "categoryId": "light",
       "food": "food/light/蔬菜豆腐汤饭.jpg",
-      "cook": "food-cook/light/蔬菜豆腐汤饭.png",
+      "cook": "food-cook/light/蔬菜豆腐汤饭.jpg",
       "status": "complete"
     },
     {
@@ -801,7 +801,7 @@
       "name": "蔬菜鸡丝粥",
       "categoryId": "light",
       "food": "food/light/蔬菜鸡丝粥.jpg",
-      "cook": "food-cook/light/蔬菜鸡丝粥.png",
+      "cook": "food-cook/light/蔬菜鸡丝粥.jpg",
       "status": "complete"
     },
     {
@@ -809,7 +809,7 @@
       "name": "虾仁藜麦碗",
       "categoryId": "light",
       "food": "food/light/虾仁藜麦碗.jpg",
-      "cook": "food-cook/light/虾仁藜麦碗.png",
+      "cook": "food-cook/light/虾仁藜麦碗.jpg",
       "status": "complete"
     },
     {
@@ -817,7 +817,7 @@
       "name": "鸡胸肉沙拉",
       "categoryId": "light",
       "food": "food/light/鸡胸肉沙拉.jpg",
-      "cook": "food-cook/light/鸡胸肉沙拉.png",
+      "cook": "food-cook/light/鸡胸肉沙拉.jpg",
       "status": "complete"
     },
     {
@@ -825,7 +825,7 @@
       "name": "鸡蛋蔬菜卷",
       "categoryId": "light",
       "food": "food/light/鸡蛋蔬菜卷.jpg",
-      "cook": "food-cook/light/鸡蛋蔬菜卷.png",
+      "cook": "food-cook/light/鸡蛋蔬菜卷.jpg",
       "status": "complete"
     },
     {
@@ -833,7 +833,7 @@
       "name": "夜宵汤面",
       "categoryId": "night",
       "food": "food/night/夜宵汤面.jpg",
-      "cook": "food-cook/night/夜宵汤面.png",
+      "cook": "food-cook/night/夜宵汤面.jpg",
       "status": "complete"
     },
     {
@@ -841,7 +841,7 @@
       "name": "夜宵炒粉",
       "categoryId": "night",
       "food": "food/night/夜宵炒粉.jpg",
-      "cook": "food-cook/night/夜宵炒粉.png",
+      "cook": "food-cook/night/夜宵炒粉.jpg",
       "status": "complete"
     },
     {
@@ -849,7 +849,7 @@
       "name": "小龙虾套餐",
       "categoryId": "night",
       "food": "food/night/小龙虾套餐.jpg",
-      "cook": "food-cook/night/小龙虾套餐.png",
+      "cook": "food-cook/night/小龙虾套餐.jpg",
       "status": "complete"
     },
     {
@@ -857,7 +857,7 @@
       "name": "炒花甲",
       "categoryId": "night",
       "food": "food/night/炒花甲.jpg",
-      "cook": "food-cook/night/炒花甲.png",
+      "cook": "food-cook/night/炒花甲.jpg",
       "status": "complete"
     },
     {
@@ -865,7 +865,7 @@
       "name": "炸串拼盘",
       "categoryId": "night",
       "food": "food/night/炸串拼盘.jpg",
-      "cook": "food-cook/night/炸串拼盘.png",
+      "cook": "food-cook/night/炸串拼盘.jpg",
       "status": "complete"
     },
     {
@@ -873,7 +873,7 @@
       "name": "烤五花肉",
       "categoryId": "night",
       "food": "food/night/烤五花肉.jpg",
-      "cook": "food-cook/night/烤五花肉.png",
+      "cook": "food-cook/night/烤五花肉.jpg",
       "status": "complete"
     },
     {
@@ -881,7 +881,7 @@
       "name": "烤生蚝",
       "categoryId": "night",
       "food": "food/night/烤生蚝.jpg",
-      "cook": "food-cook/night/烤生蚝.png",
+      "cook": "food-cook/night/烤生蚝.jpg",
       "status": "complete"
     },
     {
@@ -889,7 +889,7 @@
       "name": "烤茄子",
       "categoryId": "night",
       "food": "food/night/烤茄子.jpg",
-      "cook": "food-cook/night/烤茄子.png",
+      "cook": "food-cook/night/烤茄子.jpg",
       "status": "complete"
     },
     {
@@ -897,7 +897,7 @@
       "name": "烤金针菇",
       "categoryId": "night",
       "food": "food/night/烤金针菇.jpg",
-      "cook": "food-cook/night/烤金针菇.png",
+      "cook": "food-cook/night/烤金针菇.jpg",
       "status": "complete"
     },
     {
@@ -905,7 +905,7 @@
       "name": "烤面筋",
       "categoryId": "night",
       "food": "food/night/烤面筋.jpg",
-      "cook": "food-cook/night/烤面筋.png",
+      "cook": "food-cook/night/烤面筋.jpg",
       "status": "complete"
     },
     {
@@ -913,7 +913,7 @@
       "name": "烤韭菜",
       "categoryId": "night",
       "food": "food/night/烤韭菜.jpg",
-      "cook": "food-cook/night/烤韭菜.png",
+      "cook": "food-cook/night/烤韭菜.jpg",
       "status": "complete"
     },
     {
@@ -921,7 +921,7 @@
       "name": "烤馒头片",
       "categoryId": "night",
       "food": "food/night/烤馒头片.jpg",
-      "cook": "food-cook/night/烤馒头片.png",
+      "cook": "food-cook/night/烤馒头片.jpg",
       "status": "complete"
     },
     {
@@ -929,7 +929,7 @@
       "name": "烤鱼豆腐",
       "categoryId": "night",
       "food": "food/night/烤鱼豆腐.jpg",
-      "cook": "food-cook/night/烤鱼豆腐.png",
+      "cook": "food-cook/night/烤鱼豆腐.jpg",
       "status": "complete"
     },
     {
@@ -937,7 +937,7 @@
       "name": "烤鸡翅",
       "categoryId": "night",
       "food": "food/night/烤鸡翅.jpg",
-      "cook": "food-cook/night/烤鸡翅.png",
+      "cook": "food-cook/night/烤鸡翅.jpg",
       "status": "complete"
     },
     {
@@ -945,7 +945,7 @@
       "name": "牛肉串",
       "categoryId": "night",
       "food": "food/night/牛肉串.jpg",
-      "cook": "food-cook/night/牛肉串.png",
+      "cook": "food-cook/night/牛肉串.jpg",
       "status": "complete"
     },
     {
@@ -953,7 +953,7 @@
       "name": "砂锅粥",
       "categoryId": "night",
       "food": "food/night/砂锅粥.jpg",
-      "cook": "food-cook/night/砂锅粥.png",
+      "cook": "food-cook/night/砂锅粥.jpg",
       "status": "complete"
     },
     {
@@ -961,7 +961,7 @@
       "name": "羊肉串",
       "categoryId": "night",
       "food": "food/night/羊肉串.jpg",
-      "cook": "food-cook/night/羊肉串.png",
+      "cook": "food-cook/night/羊肉串.jpg",
       "status": "complete"
     },
     {
@@ -969,7 +969,7 @@
       "name": "脆皮年糕",
       "categoryId": "night",
       "food": "food/night/脆皮年糕.jpg",
-      "cook": "food-cook/night/脆皮年糕.png",
+      "cook": "food-cook/night/脆皮年糕.jpg",
       "status": "complete"
     },
     {
@@ -977,7 +977,7 @@
       "name": "锡纸粉丝",
       "categoryId": "night",
       "food": "food/night/锡纸粉丝.jpg",
-      "cook": "food-cook/night/锡纸粉丝.png",
+      "cook": "food-cook/night/锡纸粉丝.jpg",
       "status": "complete"
     },
     {
@@ -985,7 +985,7 @@
       "name": "麻辣鸭脖",
       "categoryId": "night",
       "food": "food/night/麻辣鸭脖.jpg",
-      "cook": "food-cook/night/麻辣鸭脖.png",
+      "cook": "food-cook/night/麻辣鸭脖.jpg",
       "status": "complete"
     },
     {
@@ -993,7 +993,7 @@
       "name": "云吞面",
       "categoryId": "noodles",
       "food": "food/noodles/云吞面.jpg",
-      "cook": "food-cook/noodles/云吞面.png",
+      "cook": "food-cook/noodles/云吞面.jpg",
       "status": "complete"
     },
     {
@@ -1001,7 +1001,7 @@
       "name": "兰州牛肉面",
       "categoryId": "noodles",
       "food": "food/noodles/兰州牛肉面.jpg",
-      "cook": "food-cook/noodles/兰州牛肉面.png",
+      "cook": "food-cook/noodles/兰州牛肉面.jpg",
       "status": "complete"
     },
     {
@@ -1009,7 +1009,7 @@
       "name": "柳州螺蛳粉",
       "categoryId": "noodles",
       "food": "food/noodles/柳州螺蛳粉.jpg",
-      "cook": "food-cook/noodles/柳州螺蛳粉.png",
+      "cook": "food-cook/noodles/柳州螺蛳粉.jpg",
       "status": "complete"
     },
     {
@@ -1017,7 +1017,7 @@
       "name": "桂林米粉",
       "categoryId": "noodles",
       "food": "food/noodles/桂林米粉.jpg",
-      "cook": "food-cook/noodles/桂林米粉.png",
+      "cook": "food-cook/noodles/桂林米粉.jpg",
       "status": "complete"
     },
     {
@@ -1025,7 +1025,7 @@
       "name": "武汉热干面",
       "categoryId": "noodles",
       "food": "food/noodles/武汉热干面.jpg",
-      "cook": "food-cook/noodles/武汉热干面.png",
+      "cook": "food-cook/noodles/武汉热干面.jpg",
       "status": "complete"
     },
     {
@@ -1033,7 +1033,7 @@
       "name": "沙县拌面",
       "categoryId": "noodles",
       "food": "food/noodles/沙县拌面.jpg",
-      "cook": "food-cook/noodles/沙县拌面.png",
+      "cook": "food-cook/noodles/沙县拌面.jpg",
       "status": "complete"
     },
     {
@@ -1041,7 +1041,7 @@
       "name": "炒河粉",
       "categoryId": "noodles",
       "food": "food/noodles/炒河粉.jpg",
-      "cook": "food-cook/noodles/炒河粉.png",
+      "cook": "food-cook/noodles/炒河粉.jpg",
       "status": "complete"
     },
     {
@@ -1049,7 +1049,7 @@
       "name": "炸酱面",
       "categoryId": "noodles",
       "food": "food/noodles/炸酱面.jpg",
-      "cook": "food-cook/noodles/炸酱面.png",
+      "cook": "food-cook/noodles/炸酱面.jpg",
       "status": "complete"
     },
     {
@@ -1057,7 +1057,7 @@
       "name": "牛肉米线",
       "categoryId": "noodles",
       "food": "food/noodles/牛肉米线.jpg",
-      "cook": "food-cook/noodles/牛肉米线.png",
+      "cook": "food-cook/noodles/牛肉米线.jpg",
       "status": "complete"
     },
     {
@@ -1065,7 +1065,7 @@
       "name": "番茄肥牛米线",
       "categoryId": "noodles",
       "food": "food/noodles/番茄肥牛米线.jpg",
-      "cook": "food-cook/noodles/番茄肥牛米线.png",
+      "cook": "food-cook/noodles/番茄肥牛米线.jpg",
       "status": "complete"
     },
     {
@@ -1073,7 +1073,7 @@
       "name": "皮蛋瘦肉粥",
       "categoryId": "noodles",
       "food": "food/noodles/皮蛋瘦肉粥.jpg",
-      "cook": "food-cook/noodles/皮蛋瘦肉粥.png",
+      "cook": "food-cook/noodles/皮蛋瘦肉粥.jpg",
       "status": "complete"
     },
     {
@@ -1081,7 +1081,7 @@
       "name": "砂锅土豆粉",
       "categoryId": "noodles",
       "food": "food/noodles/砂锅土豆粉.jpg",
-      "cook": "food-cook/noodles/砂锅土豆粉.png",
+      "cook": "food-cook/noodles/砂锅土豆粉.jpg",
       "status": "complete"
     },
     {
@@ -1089,7 +1089,7 @@
       "name": "肠粉",
       "categoryId": "noodles",
       "food": "food/noodles/肠粉.jpg",
-      "cook": "food-cook/noodles/肠粉.png",
+      "cook": "food-cook/noodles/肠粉.jpg",
       "status": "complete"
     },
     {
@@ -1097,7 +1097,7 @@
       "name": "肥肠粉",
       "categoryId": "noodles",
       "food": "food/noodles/肥肠粉.jpg",
-      "cook": "food-cook/noodles/肥肠粉.png",
+      "cook": "food-cook/noodles/肥肠粉.jpg",
       "status": "complete"
     },
     {
@@ -1105,7 +1105,7 @@
       "name": "胡辣汤油条套餐",
       "categoryId": "noodles",
       "food": "food/noodles/胡辣汤油条套餐.jpg",
-      "cook": "food-cook/noodles/胡辣汤油条套餐.png",
+      "cook": "food-cook/noodles/胡辣汤油条套餐.jpg",
       "status": "complete"
     },
     {
@@ -1113,7 +1113,7 @@
       "name": "过桥米线",
       "categoryId": "noodles",
       "food": "food/noodles/过桥米线.jpg",
-      "cook": "food-cook/noodles/过桥米线.png",
+      "cook": "food-cook/noodles/过桥米线.jpg",
       "status": "complete"
     },
     {
@@ -1121,7 +1121,7 @@
       "name": "酸辣粉",
       "categoryId": "noodles",
       "food": "food/noodles/酸辣粉.jpg",
-      "cook": "food-cook/noodles/酸辣粉.png",
+      "cook": "food-cook/noodles/酸辣粉.jpg",
       "status": "complete"
     },
     {
@@ -1129,7 +1129,7 @@
       "name": "重庆小面",
       "categoryId": "noodles",
       "food": "food/noodles/重庆小面.jpg",
-      "cook": "food-cook/noodles/重庆小面.png",
+      "cook": "food-cook/noodles/重庆小面.jpg",
       "status": "complete"
     },
     {
@@ -1137,7 +1137,7 @@
       "name": "鸡汤面",
       "categoryId": "noodles",
       "food": "food/noodles/鸡汤面.jpg",
-      "cook": "food-cook/noodles/鸡汤面.png",
+      "cook": "food-cook/noodles/鸡汤面.jpg",
       "status": "complete"
     },
     {
@@ -1145,7 +1145,7 @@
       "name": "鸡蛋炒面",
       "categoryId": "noodles",
       "food": "food/noodles/鸡蛋炒面.jpg",
-      "cook": "food-cook/noodles/鸡蛋炒面.png",
+      "cook": "food-cook/noodles/鸡蛋炒面.jpg",
       "status": "complete"
     },
     {
@@ -1153,7 +1153,7 @@
       "name": "卤肉饭",
       "categoryId": "rice",
       "food": "food/rice/卤肉饭.jpg",
-      "cook": "food-cook/rice/卤肉饭.png",
+      "cook": "food-cook/rice/卤肉饭.jpg",
       "status": "complete"
     },
     {
@@ -1161,7 +1161,7 @@
       "name": "咖喱鸡肉饭",
       "categoryId": "rice",
       "food": "food/rice/咖喱鸡肉饭.jpg",
-      "cook": "food-cook/rice/咖喱鸡肉饭.png",
+      "cook": "food-cook/rice/咖喱鸡肉饭.jpg",
       "status": "complete"
     },
     {
@@ -1169,7 +1169,7 @@
       "name": "回锅肉盖饭",
       "categoryId": "rice",
       "food": "food/rice/回锅肉盖饭.jpg",
-      "cook": "food-cook/rice/回锅肉盖饭.png",
+      "cook": "food-cook/rice/回锅肉盖饭.jpg",
       "status": "complete"
     },
     {
@@ -1177,7 +1177,7 @@
       "name": "土豆牛肉盖饭",
       "categoryId": "rice",
       "food": "food/rice/土豆牛肉盖饭.jpg",
-      "cook": "food-cook/rice/土豆牛肉盖饭.png",
+      "cook": "food-cook/rice/土豆牛肉盖饭.jpg",
       "status": "complete"
     },
     {
@@ -1185,7 +1185,7 @@
       "name": "宫保鸡丁盖饭",
       "categoryId": "rice",
       "food": "food/rice/宫保鸡丁盖饭.jpg",
-      "cook": "food-cook/rice/宫保鸡丁盖饭.png",
+      "cook": "food-cook/rice/宫保鸡丁盖饭.jpg",
       "status": "complete"
     },
     {
@@ -1193,7 +1193,7 @@
       "name": "梅菜扣肉饭",
       "categoryId": "rice",
       "food": "food/rice/梅菜扣肉饭.jpg",
-      "cook": "food-cook/rice/梅菜扣肉饭.png",
+      "cook": "food-cook/rice/梅菜扣肉饭.jpg",
       "status": "complete"
     },
     {
@@ -1201,7 +1201,7 @@
       "name": "烧鸭饭",
       "categoryId": "rice",
       "food": "food/rice/烧鸭饭.jpg",
-      "cook": "food-cook/rice/烧鸭饭.png",
+      "cook": "food-cook/rice/烧鸭饭.jpg",
       "status": "complete"
     },
     {
@@ -1209,7 +1209,7 @@
       "name": "照烧鸡腿饭",
       "categoryId": "rice",
       "food": "food/rice/照烧鸡腿饭.jpg",
-      "cook": "food-cook/rice/照烧鸡腿饭.png",
+      "cook": "food-cook/rice/照烧鸡腿饭.jpg",
       "status": "complete"
     },
     {
@@ -1217,7 +1217,7 @@
       "name": "番茄炒蛋盖饭",
       "categoryId": "rice",
       "food": "food/rice/番茄炒蛋盖饭.jpg",
-      "cook": "food-cook/rice/番茄炒蛋盖饭.png",
+      "cook": "food-cook/rice/番茄炒蛋盖饭.jpg",
       "status": "complete"
     },
     {
@@ -1225,7 +1225,7 @@
       "name": "肉末茄子盖饭",
       "categoryId": "rice",
       "food": "food/rice/肉末茄子盖饭.jpg",
-      "cook": "food-cook/rice/肉末茄子盖饭.png",
+      "cook": "food-cook/rice/肉末茄子盖饭.jpg",
       "status": "complete"
     },
     {
@@ -1233,7 +1233,7 @@
       "name": "肉末豆腐盖饭",
       "categoryId": "rice",
       "food": "food/rice/肉末豆腐盖饭.jpg",
-      "cook": "food-cook/rice/肉末豆腐盖饭.png",
+      "cook": "food-cook/rice/肉末豆腐盖饭.jpg",
       "status": "complete"
     },
     {
@@ -1241,7 +1241,7 @@
       "name": "茄子豆角饭",
       "categoryId": "rice",
       "food": "food/rice/茄子豆角饭.jpg",
-      "cook": "food-cook/rice/茄子豆角饭.png",
+      "cook": "food-cook/rice/茄子豆角饭.jpg",
       "status": "complete"
     },
     {
@@ -1249,7 +1249,7 @@
       "name": "蛋炒饭套餐",
       "categoryId": "rice",
       "food": "food/rice/蛋炒饭套餐.jpg",
-      "cook": "food-cook/rice/蛋炒饭套餐.png",
+      "cook": "food-cook/rice/蛋炒饭套餐.jpg",
       "status": "complete"
     },
     {
@@ -1257,7 +1257,7 @@
       "name": "酱香排骨饭",
       "categoryId": "rice",
       "food": "food/rice/酱香排骨饭.jpg",
-      "cook": "food-cook/rice/酱香排骨饭.png",
+      "cook": "food-cook/rice/酱香排骨饭.jpg",
       "status": "complete"
     },
     {
@@ -1265,7 +1265,7 @@
       "name": "酸辣土豆丝盖饭",
       "categoryId": "rice",
       "food": "food/rice/酸辣土豆丝盖饭.jpg",
-      "cook": "food-cook/rice/酸辣土豆丝盖饭.png",
+      "cook": "food-cook/rice/酸辣土豆丝盖饭.jpg",
       "status": "complete"
     },
     {
@@ -1273,7 +1273,7 @@
       "name": "青椒肉丝盖饭",
       "categoryId": "rice",
       "food": "food/rice/青椒肉丝盖饭.jpg",
-      "cook": "food-cook/rice/青椒肉丝盖饭.png",
+      "cook": "food-cook/rice/青椒肉丝盖饭.jpg",
       "status": "complete"
     },
     {
@@ -1281,7 +1281,7 @@
       "name": "香菇滑鸡饭",
       "categoryId": "rice",
       "food": "food/rice/香菇滑鸡饭.jpg",
-      "cook": "food-cook/rice/香菇滑鸡饭.png",
+      "cook": "food-cook/rice/香菇滑鸡饭.jpg",
       "status": "complete"
     },
     {
@@ -1289,7 +1289,7 @@
       "name": "鱼香肉丝盖饭",
       "categoryId": "rice",
       "food": "food/rice/鱼香肉丝盖饭.jpg",
-      "cook": "food-cook/rice/鱼香肉丝盖饭.png",
+      "cook": "food-cook/rice/鱼香肉丝盖饭.jpg",
       "status": "complete"
     },
     {
@@ -1297,7 +1297,7 @@
       "name": "鸡排饭",
       "categoryId": "rice",
       "food": "food/rice/鸡排饭.jpg",
-      "cook": "food-cook/rice/鸡排饭.png",
+      "cook": "food-cook/rice/鸡排饭.jpg",
       "status": "complete"
     },
     {
@@ -1305,7 +1305,7 @@
       "name": "黄焖鸡米饭",
       "categoryId": "rice",
       "food": "food/rice/黄焖鸡米饭.jpg",
-      "cook": "food-cook/rice/黄焖鸡米饭.png",
+      "cook": "food-cook/rice/黄焖鸡米饭.jpg",
       "status": "complete"
     },
     {
@@ -1313,7 +1313,7 @@
       "name": "黑椒牛柳饭",
       "categoryId": "rice",
       "food": "food/rice/黑椒牛柳饭.jpg",
-      "cook": "food-cook/rice/黑椒牛柳饭.png",
+      "cook": "food-cook/rice/黑椒牛柳饭.jpg",
       "status": "complete"
     },
     {
@@ -1321,7 +1321,7 @@
       "name": "冒菜",
       "categoryId": "spicy",
       "food": "food/spicy/冒菜.jpg",
-      "cook": "food-cook/spicy/冒菜.png",
+      "cook": "food-cook/spicy/冒菜.jpg",
       "status": "complete",
       "source": "legacy",
       "categoryInferred": true
@@ -1331,7 +1331,7 @@
       "name": "冒菜套餐",
       "categoryId": "spicy",
       "food": "food/spicy/冒菜套餐.jpg",
-      "cook": "food-cook/spicy/冒菜套餐.png",
+      "cook": "food-cook/spicy/冒菜套餐.jpg",
       "status": "complete"
     },
     {
@@ -1348,7 +1348,7 @@
       "name": "口水鸡",
       "categoryId": "spicy",
       "food": "food/spicy/口水鸡.jpg",
-      "cook": "food-cook/spicy/口水鸡.png",
+      "cook": "food-cook/spicy/口水鸡.jpg",
       "status": "complete",
       "source": "legacy",
       "categoryInferred": true
@@ -1358,7 +1358,7 @@
       "name": "口水鸡饭",
       "categoryId": "spicy",
       "food": "food/spicy/口水鸡饭.jpg",
-      "cook": "food-cook/spicy/口水鸡饭.png",
+      "cook": "food-cook/spicy/口水鸡饭.jpg",
       "status": "complete"
     },
     {
@@ -1375,7 +1375,7 @@
       "name": "夫妻肺片",
       "categoryId": "spicy",
       "food": "food/spicy/夫妻肺片.jpg",
-      "cook": "food-cook/spicy/夫妻肺片.png",
+      "cook": "food-cook/spicy/夫妻肺片.jpg",
       "status": "complete",
       "source": "legacy",
       "categoryInferred": true
@@ -1385,7 +1385,7 @@
       "name": "尖椒兔",
       "categoryId": "spicy",
       "food": "food/spicy/尖椒兔.jpg",
-      "cook": "food-cook/spicy/尖椒兔.png",
+      "cook": "food-cook/spicy/尖椒兔.jpg",
       "status": "complete",
       "source": "legacy",
       "categoryInferred": true
@@ -1405,7 +1405,7 @@
       "name": "干锅土豆片",
       "categoryId": "spicy",
       "food": "food/spicy/干锅土豆片.jpg",
-      "cook": "food-cook/spicy/干锅土豆片.png",
+      "cook": "food-cook/spicy/干锅土豆片.jpg",
       "status": "complete"
     },
     {
@@ -1413,7 +1413,7 @@
       "name": "干锅肥肠",
       "categoryId": "spicy",
       "food": "food/spicy/干锅肥肠.jpg",
-      "cook": "food-cook/spicy/干锅肥肠.png",
+      "cook": "food-cook/spicy/干锅肥肠.jpg",
       "status": "complete",
       "source": "legacy",
       "categoryInferred": true
@@ -1423,7 +1423,7 @@
       "name": "干锅花菜",
       "categoryId": "spicy",
       "food": "food/spicy/干锅花菜.jpg",
-      "cook": "food-cook/spicy/干锅花菜.png",
+      "cook": "food-cook/spicy/干锅花菜.jpg",
       "status": "complete"
     },
     {
@@ -1441,7 +1441,7 @@
       "name": "毛血旺",
       "categoryId": "spicy",
       "food": "food/spicy/毛血旺.jpg",
-      "cook": "food-cook/spicy/毛血旺.png",
+      "cook": "food-cook/spicy/毛血旺.jpg",
       "status": "complete",
       "source": "legacy"
     },
@@ -1450,7 +1450,7 @@
       "name": "水煮牛肉",
       "categoryId": "spicy",
       "food": "food/spicy/水煮牛肉.jpg",
-      "cook": "food-cook/spicy/水煮牛肉.png",
+      "cook": "food-cook/spicy/水煮牛肉.jpg",
       "status": "complete"
     },
     {
@@ -1458,7 +1458,7 @@
       "name": "水煮肉片",
       "categoryId": "spicy",
       "food": "food/spicy/水煮肉片.jpg",
-      "cook": "food-cook/spicy/水煮肉片.png",
+      "cook": "food-cook/spicy/水煮肉片.jpg",
       "status": "complete",
       "source": "legacy"
     },
@@ -1477,7 +1477,7 @@
       "name": "泡椒牛蛙",
       "categoryId": "spicy",
       "food": "food/spicy/泡椒牛蛙.jpg",
-      "cook": "food-cook/spicy/泡椒牛蛙.png",
+      "cook": "food-cook/spicy/泡椒牛蛙.jpg",
       "status": "complete"
     },
     {
@@ -1495,7 +1495,7 @@
       "name": "藤椒鸡饭",
       "categoryId": "spicy",
       "food": "food/spicy/藤椒鸡饭.jpg",
-      "cook": "food-cook/spicy/藤椒鸡饭.png",
+      "cook": "food-cook/spicy/藤椒鸡饭.jpg",
       "status": "complete"
     },
     {
@@ -1503,7 +1503,7 @@
       "name": "辣子鸡",
       "categoryId": "spicy",
       "food": "food/spicy/辣子鸡.jpg",
-      "cook": "food-cook/spicy/辣子鸡.png",
+      "cook": "food-cook/spicy/辣子鸡.jpg",
       "status": "complete",
       "source": "legacy"
     },
@@ -1512,7 +1512,7 @@
       "name": "辣椒炒肉",
       "categoryId": "home",
       "food": "food/home/辣椒炒肉.jpg",
-      "cook": "food-cook/home/辣椒炒肉.png",
+      "cook": "food-cook/home/辣椒炒肉.jpg",
       "status": "complete",
       "source": "legacy",
       "categorySource": "legacy-family"
@@ -1522,7 +1522,7 @@
       "name": "酸菜鱼",
       "categoryId": "spicy",
       "food": "food/spicy/酸菜鱼.jpg",
-      "cook": "food-cook/spicy/酸菜鱼.png",
+      "cook": "food-cook/spicy/酸菜鱼.jpg",
       "status": "complete",
       "source": "legacy",
       "categoryInferred": true
@@ -1532,7 +1532,7 @@
       "name": "酸菜鱼单人份",
       "categoryId": "spicy",
       "food": "food/spicy/酸菜鱼单人份.jpg",
-      "cook": "food-cook/spicy/酸菜鱼单人份.png",
+      "cook": "food-cook/spicy/酸菜鱼单人份.jpg",
       "status": "complete"
     },
     {
@@ -1540,7 +1540,7 @@
       "name": "酸辣土豆粉",
       "categoryId": "spicy",
       "food": "food/spicy/酸辣土豆粉.jpg",
-      "cook": "food-cook/spicy/酸辣土豆粉.png",
+      "cook": "food-cook/spicy/酸辣土豆粉.jpg",
       "status": "complete"
     },
     {
@@ -1568,7 +1568,7 @@
       "name": "麻婆豆腐",
       "categoryId": "spicy",
       "food": "food/spicy/麻婆豆腐.jpg",
-      "cook": "food-cook/spicy/麻婆豆腐.png",
+      "cook": "food-cook/spicy/麻婆豆腐.jpg",
       "status": "complete",
       "source": "legacy",
       "categoryInferred": true
@@ -1578,7 +1578,7 @@
       "name": "麻婆豆腐盖饭",
       "categoryId": "spicy",
       "food": "food/spicy/麻婆豆腐盖饭.jpg",
-      "cook": "food-cook/spicy/麻婆豆腐盖饭.png",
+      "cook": "food-cook/spicy/麻婆豆腐盖饭.jpg",
       "status": "complete"
     },
     {
@@ -1586,7 +1586,7 @@
       "name": "麻辣拌",
       "categoryId": "spicy",
       "food": "food/spicy/麻辣拌.jpg",
-      "cook": "food-cook/spicy/麻辣拌.png",
+      "cook": "food-cook/spicy/麻辣拌.jpg",
       "status": "complete"
     },
     {
@@ -1594,7 +1594,7 @@
       "name": "麻辣烫",
       "categoryId": "spicy",
       "food": "food/spicy/麻辣烫.jpg",
-      "cook": "food-cook/spicy/麻辣烫.png",
+      "cook": "food-cook/spicy/麻辣烫.jpg",
       "status": "complete"
     },
     {
@@ -1602,7 +1602,7 @@
       "name": "麻辣香锅",
       "categoryId": "spicy",
       "food": "food/spicy/麻辣香锅.jpg",
-      "cook": "food-cook/spicy/麻辣香锅.png",
+      "cook": "food-cook/spicy/麻辣香锅.jpg",
       "status": "complete",
       "source": "legacy",
       "categoryInferred": true
@@ -1612,7 +1612,7 @@
       "name": "麻辣香锅单人锅",
       "categoryId": "spicy",
       "food": "food/spicy/麻辣香锅单人锅.jpg",
-      "cook": "food-cook/spicy/麻辣香锅单人锅.png",
+      "cook": "food-cook/spicy/麻辣香锅单人锅.jpg",
       "status": "complete"
     }
   ],
