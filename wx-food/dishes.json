@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "source": "wx/detail + wx/临时备份(请勿删除)",
-  "total": 196,
-  "complete": 157,
+  "total": 195,
+  "complete": 174,
   "dishes": [
     {
       "id": "dumpling-001",
@@ -17,8 +17,8 @@
       "name": "包子稀饭套餐",
       "categoryId": "dumpling",
       "food": "food/dumpling/包子稀饭套餐.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/dumpling/包子稀饭套餐.jpg",
+      "status": "complete"
     },
     {
       "id": "dumpling-003",
@@ -113,40 +113,40 @@
       "name": "虾仁馄饨",
       "categoryId": "dumpling",
       "food": "food/dumpling/虾仁馄饨.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/dumpling/虾仁馄饨.jpg",
+      "status": "complete"
     },
     {
       "id": "dumpling-015",
       "name": "酸汤水饺",
       "categoryId": "dumpling",
       "food": "food/dumpling/酸汤水饺.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/dumpling/酸汤水饺.jpg",
+      "status": "complete"
     },
     {
       "id": "dumpling-016",
       "name": "锅贴",
       "categoryId": "dumpling",
       "food": "food/dumpling/锅贴.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/dumpling/锅贴.jpg",
+      "status": "complete"
     },
     {
       "id": "dumpling-017",
       "name": "韭菜鸡蛋水饺",
       "categoryId": "dumpling",
       "food": "food/dumpling/韭菜鸡蛋水饺.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/dumpling/韭菜鸡蛋水饺.jpg",
+      "status": "complete"
     },
     {
       "id": "dumpling-018",
       "name": "馄饨面",
       "categoryId": "dumpling",
       "food": "food/dumpling/馄饨面.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/dumpling/馄饨面.jpg",
+      "status": "complete"
     },
     {
       "id": "dumpling-019",
@@ -161,8 +161,8 @@
       "name": "鲜肉小馄饨",
       "categoryId": "dumpling",
       "food": "food/dumpling/鲜肉小馄饨.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/dumpling/鲜肉小馄饨.jpg",
+      "status": "complete"
     },
     {
       "id": "fast-001",
@@ -490,16 +490,16 @@
       "name": "农家小炒肉",
       "categoryId": "home",
       "food": "food/home/农家小炒肉.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/home/农家小炒肉.jpg",
+      "status": "complete"
     },
     {
       "id": "home-002",
       "name": "土豆炖鸡",
       "categoryId": "home",
       "food": "food/home/土豆炖鸡.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/home/土豆炖鸡.jpg",
+      "status": "complete"
     },
     {
       "id": "home-003",
@@ -523,8 +523,8 @@
       "name": "家常豆腐",
       "categoryId": "home",
       "food": "food/home/家常豆腐.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/home/家常豆腐.jpg",
+      "status": "complete"
     },
     {
       "id": "home-021",
@@ -545,20 +545,12 @@
       "status": "complete"
     },
     {
-      "id": "home-007",
-      "name": "洋葱炒牛肉",
-      "categoryId": "home",
-      "food": "food/home/洋葱炒牛肉.jpg",
-      "cook": null,
-      "status": "missing-cook"
-    },
-    {
       "id": "home-008",
       "name": "番茄炒蛋",
       "categoryId": "home",
       "food": "food/home/番茄炒蛋.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/home/番茄炒蛋.jpg",
+      "status": "complete"
     },
     {
       "id": "home-009",
@@ -581,24 +573,24 @@
       "name": "肉末茄子",
       "categoryId": "home",
       "food": "food/home/肉末茄子.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/home/肉末茄子.jpg",
+      "status": "complete"
     },
     {
       "id": "home-012",
       "name": "蒜苔炒肉",
       "categoryId": "home",
       "food": "food/home/蒜苔炒肉.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/home/蒜苔炒肉.jpg",
+      "status": "complete"
     },
     {
       "id": "home-013",
       "name": "蒜蓉西兰花",
       "categoryId": "home",
       "food": "food/home/蒜蓉西兰花.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/home/蒜蓉西兰花.jpg",
+      "status": "complete"
     },
     {
       "id": "home-014",
@@ -622,16 +614,16 @@
       "name": "酸辣土豆丝",
       "categoryId": "home",
       "food": "food/home/酸辣土豆丝.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/home/酸辣土豆丝.jpg",
+      "status": "complete"
     },
     {
       "id": "home-017",
       "name": "青椒炒蛋",
       "categoryId": "home",
       "food": "food/home/青椒炒蛋.jpg",
-      "cook": null,
-      "status": "missing-cook"
+      "cook": "food-cook/home/青椒炒蛋.jpg",
+      "status": "complete"
     },
     {
       "id": "home-018",
@@ -1467,8 +1459,8 @@
       "name": "水煮鱼（沸腾鱼）",
       "categoryId": "spicy",
       "food": "food/spicy/水煮鱼（沸腾鱼）.jpg",
-      "cook": null,
-      "status": "missing-cook",
+      "cook": "food-cook/spicy/水煮鱼（沸腾鱼）.jpg",
+      "status": "complete",
       "source": "legacy",
       "categoryInferred": true
     },
