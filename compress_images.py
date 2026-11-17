@@ -20,11 +20,11 @@ from PIL import Image
 
 SUPPORTED_EXTS = {".jpg", ".jpeg", ".png", ".webp", ".bmp", ".tiff"}
 # food
-# QUALITY = 80
-# MAX_SIZE = 512
+QUALITY = 80
+MAX_SIZE = 512
 # food-cook
-QUALITY = 100
-MAX_SIZE = 1024
+# QUALITY = 100
+# MAX_SIZE = 1024
 SIZE_LIMIT_KB = 150  # 设定图片站内内存kb大小的阈值：150 KB
 
 
